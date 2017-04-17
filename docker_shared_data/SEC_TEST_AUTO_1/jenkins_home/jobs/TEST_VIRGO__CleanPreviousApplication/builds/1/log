@@ -1,0 +1,51 @@
+Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous" build number [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmX9rPwk/RDX4JD4MM8gd//4eAPD+OKS/ALdgqLUssz80mJ9QwCBqnHk2AAAAA==[0m1
+originally caused by:
+ Started by upstream project "[8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfQDQnXCM2gAAAA==[0mTEST_VIRGO__00_start-new-bridge" build number [8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBjX9rPwk/RDX4JD4MM8gd//4eAOD+OKSxKIS3bzUct2kosyU9FR9QwA6GsK82wAAAA==[0m1
+ originally caused by:
+  Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__CleanPreviousApplication/workspace
+[workspace] $ /bin/bash /tmp/hudson3815989064705421101.sh
+/java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__CleanPreviousApplication/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Mon Apr 10 16:03:18 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   24G  181G  12% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   24G  181G  12% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Mon Apr 10 16:03:18 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955      14011       1943       1290       1280       5115
+-/+ buffers/cache:       7615       8340
+Swap:        15623          0      15623
+Mon Apr 10 16:03:18 UTC 2017 INFO:: users login
+Mon Apr 10 16:03:18 UTC 2017 INFO:: uptime
+ 16:03:18 up  7:34,  0 users,  load average: 0.67, 1.03, 0.83
+ -----------------------------------------------------------------------------------------
+STAGE=STOP_APPLICATION, RESET_CODE=
+ ++ load_testplan_current_testconfig
+cat: TEST_VIRGO_CURRENT_TESTCONFIG: No such file or directory
+cat: TEST_VIRGO_CURRENT_TESTCONFIG: No such file or directory
+cat: TEST_VIRGO_CURRENT_TESTCONFIG: No such file or directory
+ -- load_testplan_current_testconfig
+ looking for processes with name contains [catalina.base=/java/exo-working] 
+detected lone catalina.base=/java/exo-working (pid 3280), killing it
+./jmeter-utils-testcontroller.sh: line 160: kill: (3280) - No such process
+ looking for processes with name contains [Dexo.conf.dir.name] 
+found no process with name contain [Dexo.conf.dir.name]
+ looking for processes with name contains [jmxtrans] 
+found no process with name contain [jmxtrans]
+ looking for processes with name contains [program.name=run.sh] 
+found no process with name contain [program.name=run.sh]
+ looking for processes with name contains [/usr/lib/libreoffice/program/soffice.bin] 
+found no process with name contain [/usr/lib/libreoffice/program/soffice.bin]
+ looking for processes with name contains [/opt/openoffice.org3/program/soffice.bin] 
+found no process with name contain [/opt/openoffice.org3/program/soffice.bin]
+success
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Triggering a new build of [8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgY5/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9ACKzoz7TAAAA[0mTEST_VIRGO__05_start-new
+Finished: SUCCESS

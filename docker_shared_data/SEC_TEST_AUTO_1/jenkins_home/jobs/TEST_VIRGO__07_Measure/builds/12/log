@@ -1,0 +1,204 @@
+Started by upstream project "[8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgY5/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9ACKzoz7TAAAA[0mTEST_VIRGO__05_start-new" build number [8mha:AAAArB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYF/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9QwsAG6rLUdUAAAA=[0m18
+originally caused by:
+ Started by upstream project "[8mha:AAAAth+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYt/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9AG5K4jvfAAAA[0mTEST_VIRGO__CleanPreviousApplication" build number [8mha:AAAAuB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYd/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9QwsA8G066+EAAAA=[0m18
+ originally caused by:
+  Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous" build number [8mha:AAAAsB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYV/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifUMLAFhM1X7ZAAAA[0m18
+  originally caused by:
+   Started by upstream project "[8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfQDQnXCM2gAAAA==[0mTEST_VIRGO__00_start-new-bridge" build number [8mha:AAAAsx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ1/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfUMLAPHFwFrcAAAA[0m18
+   originally caused by:
+    Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+[workspace] $ /bin/bash /tmp/hudson4423079175822963387.sh
+:99
+/java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Fri Apr 14 10:02:53 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   26G  178G  13% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   26G  178G  13% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Fri Apr 14 10:02:53 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955       9679       6276        802        249       2492
+-/+ buffers/cache:       6937       9017
+Swap:        15623          0      15623
+Fri Apr 14 10:02:53 UTC 2017 INFO:: users login
+Fri Apr 14 10:02:53 UTC 2017 INFO:: uptime
+ 10:02:53 up  1:12,  0 users,  load average: 2.25, 1.08, 0.80
+ -----------------------------------------------------------------------------------------
+STAGE=SECURITY_TEST, RESET_CODE=
+ ++ loadfirstconfigline_to_testplan_current_testconfig
+firstline=/java/exo-working/TC/current/ RE_USE/java/exo-working/PLF44.W45.zip!SOCIAL 36000 PLF44x20161108_RDBMS PATTERN1 1!eXoPLF.install.sh, RESET_CODE=
+ -- loadfirstconfigline_to_testplan_current_testconfig = [/java/exo-working/TC/current/ RE_USE/java/exo-working/PLF44.W45.zip!SOCIAL 36000 PLF44x20161108_RDBMS PATTERN1 1!eXoPLF.install.sh] 
+last_status=0
+ ++ load_testplan_current_testconfig
+ -- load_testplan_current_testconfig
+arguments=600:/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh SOCIAL
+nohup /java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh SOCIAL
+Fri Apr 14 10:02:53 UTC 2017 command_id=12711
+Fri Apr 14 10:02:53 UTC 2017 watching for 36000 seconds to kill 12711
+ ... still watching after 0 seconds ... 
+Fri Apr 14 10:02:53 UTC 2017, going to run test on module: SOCIAL
+cp: cannot stat ‘/java/exo-working/automation_xss_tc/plf//COMMON/*.jar’: No such file or directory
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170414_100253 /java/exo-working/automation_xss_tc/testsuite
+Fri Apr 14 10:02:53 UTC 2017,INFO:: build test suites and test result table
+Fri Apr 14 10:02:53 UTC 2017,INFO:: doing pretests
+Fri Apr 14 10:02:53 UTC 2017, INFO:: testscript=COMM_pretest.html 
+10:02:53.711 INFO - Launching a standalone Selenium Server
+10:02:53.727 INFO - Java: Oracle Corporation 25.72-b15
+10:02:53.727 INFO - OS: Linux 4.4.0-66-generic amd64
+10:02:53.733 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:02:53.765 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:02:53.766 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:02:53.766 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:02:53.766 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:02:53.767 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:02:53.834 INFO - Launching Firefox...
+ ... still watching after 5 seconds ... 
+ ... still watching after 10 seconds ... 
+ ... still watching after 15 seconds ... 
+ ... still watching after 20 seconds ... 
+ ... still watching after 25 seconds ... 
+ ... still watching after 30 seconds ... 
+ ... still watching after 35 seconds ... 
+ ... still watching after 40 seconds ... 
+ ... still watching after 45 seconds ... 
+ ... still watching after 50 seconds ... 
+ ... still watching after 55 seconds ... 
+ ... still watching after 60 seconds ... 
+ ... still watching after 65 seconds ... 
+ ... still watching after 70 seconds ... 
+ ... still watching after 75 seconds ... 
+ ... still watching after 80 seconds ... 
+ ... still watching after 85 seconds ... 
+ ... still watching after 90 seconds ... 
+ ... still watching after 95 seconds ... 
+ ... still watching after 100 seconds ... 
+ ... still watching after 105 seconds ... 
+ ... still watching after 110 seconds ... 
+ ... still watching after 115 seconds ... 
+ ... still watching after 120 seconds ... 
+ ... still watching after 125 seconds ... 
+ ... still watching after 130 seconds ... 
+ ... still watching after 135 seconds ... 
+ ... still watching after 140 seconds ... 
+ ... still watching after 145 seconds ... 
+ ... still watching after 150 seconds ... 
+ ... still watching after 155 seconds ... 
+ ... still watching after 160 seconds ... 
+10:05:34.504 INFO - Received posted results
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+</tbody></table>
+
+
+
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_failed"><td>
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_failed"><td>
+10:05:34.875 INFO - Killing Firefox...
+Tests failed, see result file for details: /java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170414_100253/./RESULT_PRETEST_SUITE_COMM_pretest.html
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_CON_1.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_CON_2.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_CON_3.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_INT_1.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_INT_2.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_INT_3.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_INT_4.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_INT_5.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_1.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_10.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_11.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_12.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_13.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_14.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_15.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_16.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_17.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_18.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_19.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_2.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_20.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_21.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_22.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_23.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_24.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_25.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_26.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_27.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_28.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_29.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_3.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_30.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_31.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_32.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_33.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_34.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_35.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_36.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_4.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_5.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_6.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_7.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_8.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_MyProperties_9.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_1.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_10.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_11.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_12.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_13.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_14.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_15.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_16.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_2.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_3.1.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_3.2.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_3.3.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_3.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_4.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_5.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_6.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_7.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_8.html 
+Fri Apr 14 10:05:35 UTC 2017, INFO:: testscript=XSS_REFL_SOC_Space_9.html 
+Fri Apr 14 10:05:35 UTC 2017,INFO:: start testing
+Fri Apr 14 10:05:35 UTC 2017, >>> processing SUITE_XSS_REFL_SOC_CON_1.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170414_100253/RESULT_SUITE_XSS_REFL_SOC_CON_1.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170414_100253
+10:05:35.623 INFO - Launching a standalone Selenium Server
+10:05:35.642 INFO - Java: Oracle Corporation 25.72-b15
+10:05:35.642 INFO - OS: Linux 4.4.0-66-generic amd64
+10:05:35.649 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:05:35.688 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:05:35.689 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:05:35.689 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:05:35.689 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:05:35.690 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:05:35.766 INFO - Launching Firefox...
+ ... still watching after 165 seconds ... 
+ ... still watching after 170 seconds ... 
+ ... still watching after 175 seconds ... 
+ ... still watching after 180 seconds ... 
+ ... still watching after 185 seconds ... 
+ ... still watching after 190 seconds ... 
+Build was aborted
+Aborted by [8mha:AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9xLz8vMrc/NJiAJjzDjjEAAAA[0manonymous
+Archiving artifacts
+[description-setter] Could not determine description.
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Finished: ABORTED

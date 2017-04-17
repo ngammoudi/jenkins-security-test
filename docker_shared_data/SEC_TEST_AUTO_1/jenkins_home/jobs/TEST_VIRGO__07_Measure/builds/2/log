@@ -1,0 +1,330 @@
+Started by upstream project "[8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgY5/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9ACKzoz7TAAAA[0mTEST_VIRGO__05_start-new" build number [8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBnn9rPwk/RDX4JD4MM8gd//4eAPT+OKSxKIS3bzUcn1jAOCbdwPUAAAA[0m3
+originally caused by:
+ Started by upstream project "[8mha:AAAAth+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYt/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9AG5K4jvfAAAA[0mTEST_VIRGO__CleanPreviousApplication" build number [8mha:AAAAth+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBm39rPwk/RDX4JD4MM8gd//4eOec1MS8gKLUssz80mLHgoKczOTEksz8PH1jAHZqbLjgAAAA[0m3
+ originally caused by:
+  Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous" build number [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmX9rPwk/RDX4JD4MM8gd//4eAPD+OKS/ALdgqLUssz80mJ9YwCty38K2AAAAA==[0m3
+  originally caused by:
+   Started by upstream project "[8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfQDQnXCM2gAAAA==[0mTEST_VIRGO__00_start-new-bridge" build number [8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBjX9rPwk/RDX4JD4MM8gd//4eAOD+OKSxKIS3bzUct2kosyU9FR9YwAWe8xS2wAAAA==[0m3
+   originally caused by:
+    Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+[workspace] $ /bin/bash /tmp/hudson3989554406400093245.sh
+:99
+/java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Tue Apr 11 09:23:00 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   24G  180G  12% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   24G  180G  12% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Tue Apr 11 09:23:00 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955      11779       4176        548       1231       2104
+-/+ buffers/cache:       8443       7511
+Swap:        15623         17      15606
+Tue Apr 11 09:23:00 UTC 2017 INFO:: users login
+Tue Apr 11 09:23:00 UTC 2017 INFO:: uptime
+ 09:23:00 up 1 day, 54 min,  0 users,  load average: 2.15, 0.89, 0.57
+ -----------------------------------------------------------------------------------------
+STAGE=SECURITY_TEST, RESET_CODE=
+ ++ loadfirstconfigline_to_testplan_current_testconfig
+firstline=/java/exo-working/TC/current/ RE_USE!SAMPLES 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh, RESET_CODE=
+ -- loadfirstconfigline_to_testplan_current_testconfig = [/java/exo-working/TC/current/ RE_USE!SAMPLES 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh] 
+last_status=0
+ ++ load_testplan_current_testconfig
+ -- load_testplan_current_testconfig
+arguments=60:/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh SAMPLES
+nohup /java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh SAMPLES
+Tue Apr 11 09:23:00 UTC 2017 command_id=11055
+Tue Apr 11 09:23:00 UTC 2017 watching for 3600 seconds to kill 11055
+ ... still watching after 0 seconds ... 
+Tue Apr 11 09:23:00 UTC 2017, going to run test on module: SAMPLES
+cp: cannot stat ‘/java/exo-working/automation_xss_tc/plf//COMMON/*.jar’: No such file or directory
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300 /java/exo-working/automation_xss_tc/testsuite
+Tue Apr 11 09:23:00 UTC 2017,INFO:: build test suites and test result table
+Tue Apr 11 09:23:00 UTC 2017,INFO:: doing pretests
+Tue Apr 11 09:23:00 UTC 2017, INFO:: testscript=COMM_pretest.html 
+09:23:01.491 INFO - Launching a standalone Selenium Server
+09:23:01.634 INFO - Java: Oracle Corporation 25.72-b15
+09:23:01.634 INFO - OS: Linux 4.4.0-66-generic amd64
+09:23:01.686 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+09:23:01.907 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:23:01.907 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:23:01.907 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+09:23:01.907 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+09:23:01.908 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+09:23:02.391 INFO - Launching Firefox...
+ ... still watching after 5 seconds ... 
+ ... still watching after 10 seconds ... 
+ ... still watching after 15 seconds ... 
+ ... still watching after 20 seconds ... 
+ ... still watching after 25 seconds ... 
+ ... still watching after 30 seconds ... 
+ ... still watching after 35 seconds ... 
+ ... still watching after 40 seconds ... 
+ ... still watching after 45 seconds ... 
+ ... still watching after 50 seconds ... 
+ ... still watching after 55 seconds ... 
+ ... still watching after 60 seconds ... 
+ ... still watching after 65 seconds ... 
+ ... still watching after 70 seconds ... 
+ ... still watching after 75 seconds ... 
+ ... still watching after 80 seconds ... 
+ ... still watching after 85 seconds ... 
+ ... still watching after 90 seconds ... 
+ ... still watching after 95 seconds ... 
+ ... still watching after 100 seconds ... 
+ ... still watching after 105 seconds ... 
+ ... still watching after 110 seconds ... 
+ ... still watching after 115 seconds ... 
+ ... still watching after 120 seconds ... 
+ ... still watching after 125 seconds ... 
+09:25:05.581 INFO - Received posted results
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+</tbody></table>
+
+
+
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_passed"><td>
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_passed"><td>
+09:25:05.949 INFO - Killing Firefox...
+Tue Apr 11 09:25:06 UTC 2017, INFO:: testscript=XSS_REFL_EXOGTN_1.html 
+Tue Apr 11 09:25:06 UTC 2017, INFO:: testscript=XSS_REFL_EXOGTN_2.html 
+Tue Apr 11 09:25:06 UTC 2017, INFO:: testscript=XSS_REFL_EXOGTN_3.html 
+Tue Apr 11 09:25:06 UTC 2017, INFO:: testscript=XSS_REFL_Forum_65.html 
+Tue Apr 11 09:25:06 UTC 2017,INFO:: start testing
+Tue Apr 11 09:25:06 UTC 2017, >>> processing SUITE_XSS_REFL_EXOGTN_1.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_EXOGTN_1.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300
+09:25:06.365 INFO - Launching a standalone Selenium Server
+09:25:06.383 INFO - Java: Oracle Corporation 25.72-b15
+09:25:06.384 INFO - OS: Linux 4.4.0-66-generic amd64
+09:25:06.391 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+09:25:06.428 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:25:06.428 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:25:06.428 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+09:25:06.428 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+09:25:06.430 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+09:25:06.498 INFO - Launching Firefox...
+ ... still watching after 130 seconds ... 
+ ... still watching after 135 seconds ... 
+ ... still watching after 140 seconds ... 
+ ... still watching after 145 seconds ... 
+ ... still watching after 150 seconds ... 
+ ... still watching after 155 seconds ... 
+ ... still watching after 160 seconds ... 
+ ... still watching after 165 seconds ... 
+ ... still watching after 170 seconds ... 
+ ... still watching after 175 seconds ... 
+ ... still watching after 180 seconds ... 
+ ... still watching after 185 seconds ... 
+ ... still watching after 190 seconds ... 
+ ... still watching after 195 seconds ... 
+09:26:16.958 INFO - Received posted results
+XSS_REFL_EXOGTN_1.html
+<a href="XSS_REFL_EXOGTN_1.html">XSS_REFL_EXOGTN_1</a></td></tr>
+</tbody></table>
+
+
+
+09:26:17.521 INFO - Killing Firefox...
+Tue Apr 11 09:26:18 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_EXOGTN_1.html done, exit
+ ... still watching after 200 seconds ... 
+ ... still watching after 205 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (11510) - No such process
+Tue Apr 11 09:26:27 UTC 2017, >>> processing SUITE_XSS_REFL_EXOGTN_2.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_EXOGTN_2.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300
+09:26:27.900 INFO - Launching a standalone Selenium Server
+09:26:27.917 INFO - Java: Oracle Corporation 25.72-b15
+09:26:27.917 INFO - OS: Linux 4.4.0-66-generic amd64
+09:26:27.923 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+09:26:27.958 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:26:27.959 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:26:27.959 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+09:26:27.959 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+09:26:27.960 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+09:26:28.031 INFO - Launching Firefox...
+ ... still watching after 210 seconds ... 
+ ... still watching after 215 seconds ... 
+ ... still watching after 220 seconds ... 
+ ... still watching after 225 seconds ... 
+ ... still watching after 230 seconds ... 
+ ... still watching after 235 seconds ... 
+ ... still watching after 240 seconds ... 
+ ... still watching after 245 seconds ... 
+ ... still watching after 250 seconds ... 
+ ... still watching after 255 seconds ... 
+ ... still watching after 260 seconds ... 
+ ... still watching after 265 seconds ... 
+ ... still watching after 270 seconds ... 
+ ... still watching after 275 seconds ... 
+09:27:38.743 INFO - Received posted results
+XSS_REFL_EXOGTN_2.html
+<a href="XSS_REFL_EXOGTN_2.html">XSS_REFL_EXOGTN_2</a></td></tr>
+</tbody></table>
+
+
+
+09:27:39.053 INFO - Killing Firefox...
+Tue Apr 11 09:27:39 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_EXOGTN_2.html done, exit
+Tue Apr 11 09:27:39 UTC 2017, >>> processing SUITE_XSS_REFL_EXOGTN_3.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_EXOGTN_3.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300
+09:27:39.738 INFO - Launching a standalone Selenium Server
+09:27:39.756 INFO - Java: Oracle Corporation 25.72-b15
+09:27:39.756 INFO - OS: Linux 4.4.0-66-generic amd64
+09:27:39.763 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+09:27:39.798 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:27:39.799 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:27:39.799 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+09:27:39.799 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+09:27:39.800 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+09:27:39.882 INFO - Launching Firefox...
+ ... still watching after 280 seconds ... 
+ ... still watching after 285 seconds ... 
+ ... still watching after 290 seconds ... 
+ ... still watching after 295 seconds ... 
+ ... still watching after 300 seconds ... 
+ ... still watching after 305 seconds ... 
+ ... still watching after 310 seconds ... 
+ ... still watching after 315 seconds ... 
+ ... still watching after 320 seconds ... 
+ ... still watching after 325 seconds ... 
+ ... still watching after 330 seconds ... 
+ ... still watching after 335 seconds ... 
+ ... still watching after 340 seconds ... 
+ ... still watching after 345 seconds ... 
+ ... still watching after 350 seconds ... 
+09:28:50.536 INFO - Received posted results
+XSS_REFL_EXOGTN_3.html
+<a href="XSS_REFL_EXOGTN_3.html">XSS_REFL_EXOGTN_3</a></td></tr>
+</tbody></table>
+
+
+
+09:28:50.904 INFO - Killing Firefox...
+Tue Apr 11 09:28:51 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_EXOGTN_3.html done, exit
+ ... still watching after 355 seconds ... 
+ ... still watching after 360 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (12140) - No such process
+Tue Apr 11 09:29:01 UTC 2017, >>> processing SUITE_XSS_REFL_Forum_65.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_Forum_65.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_092300
+09:29:01.369 INFO - Launching a standalone Selenium Server
+09:29:01.387 INFO - Java: Oracle Corporation 25.72-b15
+09:29:01.387 INFO - OS: Linux 4.4.0-66-generic amd64
+09:29:01.393 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+09:29:01.426 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:29:01.426 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+09:29:01.426 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+09:29:01.426 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+09:29:01.427 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+09:29:01.490 INFO - Launching Firefox...
+ ... still watching after 365 seconds ... 
+ ... still watching after 370 seconds ... 
+ ... still watching after 375 seconds ... 
+ ... still watching after 380 seconds ... 
+ ... still watching after 385 seconds ... 
+ ... still watching after 390 seconds ... 
+ ... still watching after 395 seconds ... 
+ ... still watching after 400 seconds ... 
+ ... still watching after 405 seconds ... 
+ ... still watching after 410 seconds ... 
+ ... still watching after 415 seconds ... 
+09:29:56.521 INFO - Received posted results
+XSS_REFL_Forum_65.html
+<a href="XSS_REFL_Forum_65.html">XSS_REFL_Forum_65</a></td></tr>
+</tbody></table>
+
+
+
+09:29:57.008 INFO - Killing Firefox...
+Tests failed, see result file for details: /java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_092300/./RESULT_SUITE_XSS_REFL_Forum_65.html
+head: cannot open ‘/root/testsuite/TEST_VIRGO_CURRENT_CONFIG’ for reading: No such file or directory
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 163: /root/testsuite/TEST_VIRGO_CURRENT_CONFIG: No such file or directory
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 164: /root/testsuite/TEST_VIRGO_CONFIRM_CURRENT_CONFIG: No such file or directory
+Tue Apr 11 09:29:57 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_092300/RESULT_SUITE_XSS_REFL_Forum_65.html done, exit
+ ... still watching after 420 seconds ... 
+ ... still watching after 425 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (12473) - No such process
+gzip: XSS_REFL_EXOGTN_1.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_EXOGTN_2.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_EXOGTN_3.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Forum_65.html.gz already has .gz suffix -- unchanged
+Tue Apr 11 09:30:10 UTC 2017 killing 11055 
+./timeout.sh: line 28: kill: (11055) - No such process
+Tue Apr 11 09:30:10 UTC 2017 done
+Tue Apr 11 09:30:10 UTC 2017,INFO::report_path=/java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_092300
+/java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_092300 /java/exo-working/automation_xss_tc/testsuite
+mv: cannot move ‘details’ to a subdirectory of itself, ‘details/details’
+/java/exo-working/automation_xss_tc/testsuite
+Local report storage: /java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_092300
+The test report should be uploaded to: https://qaf-reports.exoplatform.org/archives/jmeter/results/listdir.php?path=../results/SECURITY_AUTOMATION_REPORT/SAMPLE_TEST_WITH_PLF43/test_results_170411_092300_SAMPLES____4_TOTAL__1_FAILED
+/java/exo-working/automation_xss_tc_new/testsuite/latestresult
+success
+/java/exo-working/automation_xss_tc/testsuite /java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Tue Apr 11 09:30:10 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   24G  180G  12% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   24G  180G  12% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Tue Apr 11 09:30:10 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955      12408       3546        666       1231       2340
+-/+ buffers/cache:       8837       7118
+Swap:        15623         17      15606
+Tue Apr 11 09:30:10 UTC 2017 INFO:: users login
+Tue Apr 11 09:30:10 UTC 2017 INFO:: uptime
+ 09:30:10 up 1 day,  1:01,  0 users,  load average: 0.90, 0.94, 0.73
+ -----------------------------------------------------------------------------------------
+STAGE=COUNT_DOWN_TEST, RESET_CODE=
+ ++ loadfirstconfigline_to_testplan_current_testconfig
+firstline=/java/exo-working/TC/current/ RE_USE!SAMPLES 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh, RESET_CODE=
+ -- loadfirstconfigline_to_testplan_current_testconfig = [/java/exo-working/TC/current/ RE_USE!SAMPLES 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh] 
+last_status=0
+ ++ load_testplan_current_testconfig
+ -- load_testplan_current_testconfig
+ ++ trimfirstline
+./jmeter-utils-testcontroller.sh: line 173: enable_readwrite_mode_for_config_file: command not found
+ -- trimfirstline
+success
+Process leaked file descriptors. See http://wiki.jenkins-ci.org/display/JENKINS/Spawning+processes+from+build for more information
+Archiving artifacts
+[description-setter] Description set: SAMPLE_TEST_WITH_PLF43 -> SAMPLES (SHOULD_WORK 3600)
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Triggering a new build of [8mha:AAAArx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzZEgZl/az8JP0Q1+CQ+DDPIHf/+HgDi/jSgpz8xBTdotSC/KKSYn0ApnMbmdgAAAA=[0mTEST_VIRGO__08_upload-reports
+Triggering a new build of [8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDy/gAx6Bg13hHZ2fX4OB4H393fQDtSX8E2gAAAA==[0mTEST_VIRGO__09_PARSE_ACCESS_LOG
+Finished: SUCCESS

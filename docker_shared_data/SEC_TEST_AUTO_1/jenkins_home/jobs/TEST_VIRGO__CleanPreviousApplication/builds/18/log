@@ -1,0 +1,47 @@
+Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous" build number [8mha:AAAAsB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYV/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifUMLAFhM1X7ZAAAA[0m18
+originally caused by:
+ Started by upstream project "[8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfQDQnXCM2gAAAA==[0mTEST_VIRGO__00_start-new-bridge" build number [8mha:AAAAsx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ1/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfUMLAPHFwFrcAAAA[0m18
+ originally caused by:
+  Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__CleanPreviousApplication/workspace
+[workspace] $ /bin/bash /tmp/hudson3267979880975620099.sh
+/java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__CleanPreviousApplication/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Fri Apr 14 10:01:13 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   26G  178G  13% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   26G  178G  13% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Fri Apr 14 10:01:13 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955       9740       6214        761        247       2448
+-/+ buffers/cache:       7044       8910
+Swap:        15623          0      15623
+Fri Apr 14 10:01:13 UTC 2017 INFO:: users login
+Fri Apr 14 10:01:13 UTC 2017 INFO:: uptime
+ 10:01:13 up  1:10,  0 users,  load average: 0.18, 0.53, 0.62
+ -----------------------------------------------------------------------------------------
+STAGE=STOP_APPLICATION, RESET_CODE=
+ ++ load_testplan_current_testconfig
+ -- load_testplan_current_testconfig
+ looking for processes with name contains [catalina.base=/java/exo-working] 
+detected lone catalina.base=/java/exo-working (pid 1165), killing it
+ looking for processes with name contains [Dexo.conf.dir.name] 
+found no process with name contain [Dexo.conf.dir.name]
+ looking for processes with name contains [jmxtrans] 
+found no process with name contain [jmxtrans]
+ looking for processes with name contains [program.name=run.sh] 
+found no process with name contain [program.name=run.sh]
+ looking for processes with name contains [/usr/lib/libreoffice/program/soffice.bin] 
+found no process with name contain [/usr/lib/libreoffice/program/soffice.bin]
+ looking for processes with name contains [/opt/openoffice.org3/program/soffice.bin] 
+found no process with name contain [/opt/openoffice.org3/program/soffice.bin]
+success
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Triggering a new build of [8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgY5/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9ACKzoz7TAAAA[0mTEST_VIRGO__05_start-new
+Finished: SUCCESS

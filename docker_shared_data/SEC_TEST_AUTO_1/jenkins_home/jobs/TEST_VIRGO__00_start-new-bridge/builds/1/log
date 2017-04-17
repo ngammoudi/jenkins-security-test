@@ -1,0 +1,47 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__00_start-new-bridge/workspace
+[workspace] $ /bin/bash /tmp/hudson3792181014639579490.sh
+/java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__00_start-new-bridge/workspace
+ ... the system will run a quick build flow with QUICK_BUILD_FLOW= /java/exo-working/TC/current/ RE_USE!FORUM 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh ... 
+ ... +++ CURRENT CONFIG FILE:: +++ ....
+ /java/exo-working/TC/current/ RE_USE!FORUM 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh
+
+ ... --- CURRENT CONFIG FILE:: --- ....
+/java/exo-working/automation_xss_tc/testsuite /java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__00_start-new-bridge/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Mon Apr 10 16:03:02 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   24G  181G  12% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   24G  181G  12% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Mon Apr 10 16:03:02 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955      14006       1949       1294       1280       5115
+-/+ buffers/cache:       7609       8345
+Swap:        15623          0      15623
+Mon Apr 10 16:03:02 UTC 2017 INFO:: users login
+Mon Apr 10 16:03:02 UTC 2017 INFO:: uptime
+ 16:03:02 up  7:34,  0 users,  load average: 0.76, 1.06, 0.84
+ -----------------------------------------------------------------------------------------
+STAGE=STOP_TEST, RESET_CODE=NO_RESET_CODE
+ ++ load_testplan_current_testconfig
+cat: TEST_VIRGO_CURRENT_TESTCONFIG: No such file or directory
+cat: TEST_VIRGO_CURRENT_TESTCONFIG: No such file or directory
+cat: TEST_VIRGO_CURRENT_TESTCONFIG: No such file or directory
+ -- load_testplan_current_testconfig
+ looking for processes with name contains [selenium-server-standalone] 
+found no process with name contain [selenium-server-standalone]
+ looking for processes with name contains [firefox-bin] 
+found no process with name contain [firefox-bin]
+ looking for processes with name contains [automation_xss_confirm_scripts.sh] 
+found no process with name contain [automation_xss_confirm_scripts.sh]
+success
+[description-setter] Could not determine description.
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Triggering a new build of [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous
+Finished: SUCCESS

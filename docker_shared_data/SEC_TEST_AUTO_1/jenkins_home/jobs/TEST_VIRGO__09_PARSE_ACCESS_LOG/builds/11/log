@@ -1,0 +1,194 @@
+Started by upstream project "[8mha:AAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYZ/az8JP0Q1+CQ+DDPIHf/+HgD83jf1MTi0qJUfQDb+JLY0QAAAA==[0mTEST_VIRGO__07_Measure" build number [8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgY5/az8JP0Q1+CQ+DDPIHf/+HgD83jf1MTi0qJUfUNjAOpGjkPTAAAA[0m13
+originally caused by:
+ Started by upstream project "[8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgY5/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9ACKzoz7TAAAA[0mTEST_VIRGO__05_start-new" build number [8mha:AAAArB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYF/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9Q0sAjZrMJtUAAAA=[0m19
+ originally caused by:
+  Started by upstream project "[8mha:AAAAth+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYt/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9AG5K4jvfAAAA[0mTEST_VIRGO__CleanPreviousApplication" build number [8mha:AAAAuB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYd/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9Q0sAZl09nOEAAAA=[0m19
+  originally caused by:
+   Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous" build number [8mha:AAAAsB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYV/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifUNLAM580gnZAAAA[0m19
+   originally caused by:
+    Started by upstream project "[8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfQDQnXCM2gAAAA==[0mTEST_VIRGO__00_start-new-bridge" build number [8mha:AAAAsx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ1/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfUNLAGf1xy3cAAAA[0m19
+    originally caused by:
+     Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__09_PARSE_ACCESS_LOG/workspace
+[workspace] $ /bin/bash /tmp/hudson2709845580556330142.sh
+/java/exo-working/w3af_auto /var/jenkins_home/jobs/TEST_VIRGO__09_PARSE_ACCESS_LOG/workspace
+==== WAITING FOR THE FILTERING PROCESS FINISHED ====
+W3af file /java/exo-working/w3af_auto//output/w3af_test_targets_2017-04-14.txt exported
+==== Filter URLs ====
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/0\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/0\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/john-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/john-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/mary-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/mary-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/root-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Event\/root-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/0\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/0\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/john-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/john-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/mary-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/mary-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/root-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/cs\/calendar\/events\/personal\/Task\/root-defaultCalendarId\/[0-9]+\/[0-9]+\/10
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/upload\?action\=progress&uploadId\=[0-9]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/upload\?action\=progress&uploadId\=[0-9]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/images\/repository\/collaboration\/[^\/]+file
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/images\/repository\/collaboration\/[^\/]+file
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/all\/repository\/collaboration\/john\?[^\/]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/all\/repository\/collaboration\/john\?[^\/]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/all\/repository\/collaboration\/mary\?[^\/]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/all\/repository\/collaboration\/mary\?[^\/]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/all\/repository\/collaboration\/root\?[^\/]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/all\/repository\/collaboration\/root\?[^\/]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/get-documents\/mary\?[^\/]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/get-documents\/mary\?[^\/]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/get-documents\/root\?[^\/]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/get-documents\/root\?[^\/]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/get-documents\/john\?[^\/]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/plf\/favorite\/get-documents\/john\?[^\/]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/social\/rpc[^\/]+
+... -- processing with pattern: ^http:\/\/[^\/]+\/social\/rpc[^\/]+
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Profile.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Profile.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Profile.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Profile.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Profile.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Profile.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Invitations.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Invitations.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Invitations.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Invitations.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Invitations.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Invitations.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Agenda.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Agenda.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Agenda.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Agenda.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Agenda.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Agenda.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+WhoIsOnline.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+WhoIsOnline.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+WhoIsOnline.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+WhoIsOnline.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+WhoIsOnline.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+WhoIsOnline.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Poll.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Poll.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Poll.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Poll.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Poll.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Poll.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Bookmark.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+Bookmark.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Bookmark.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+Bookmark.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Bookmark.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+Bookmark.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+FavoriteDocument.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%3A%2F%2F[^\/]+FavoriteDocument.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+FavoriteDocument.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2F%3A%2F%2F[^\/]+FavoriteDocument.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+FavoriteDocument.xml
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/ifr[^\/]+intranet%2Fhome%3A%2F%2F[^\/]+FavoriteDocument.xml
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/makeRequest[^\/]+favorite%2Fall%2Frepository[^\/]+false
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/makeRequest[^\/]+favorite%2Fall%2Frepository[^\/]+false
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/makeRequest[^\/]+favorite%2Fget-documents[^\/]+false
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/makeRequest[^\/]+favorite%2Fget-documents[^\/]+false
+... ++ processing with pattern: ^http:\/\/[^\/]+\/calendar\/javascript\/eXo\/calendar\/[^\/]+.js
+... -- processing with pattern: ^http:\/\/[^\/]+\/calendar\/javascript\/eXo\/calendar\/[^\/]+.js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/calendar\/skin\/DefaultSkin\/webui\/background\/[^\/]+.gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/calendar\/skin\/DefaultSkin\/webui\/background\/[^\/]+.gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/calendar\/skin\/DefaultSkin\/webui\/skinIcons\/icons\/.*
+... -- processing with pattern: ^http:\/\/[^\/]+\/calendar\/skin\/DefaultSkin\/webui\/skinIcons\/icons\/.*
+... ++ processing with pattern: ^http:\/\/[^\/]+\/Collaboration\/skin\/DefaultSkin\/portletIcons\/[^\/]+.png
+... -- processing with pattern: ^http:\/\/[^\/]+\/Collaboration\/skin\/DefaultSkin\/portletIcons\/[^\/]+.png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/csResources\/javascript\/eXo\/cs\/[^\/]+.js
+... -- processing with pattern: ^http:\/\/[^\/]+\/csResources\/javascript\/eXo\/cs\/[^\/]+.js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/javascript\/eXo\/ecm\/[^\/]+.js
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/javascript\/eXo\/ecm\/[^\/]+.js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/icons\/16x16\/DefaultSkin\/[^\/]+.gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/icons\/16x16\/DefaultSkin\/[^\/]+.gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/icons\/24x24\/DefaultSkin\/.*
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/icons\/24x24\/DefaultSkin\/.*
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/control\/DefaultSkin\/background\/.*
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/control\/DefaultSkin\/background\/.*
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/control\/DefaultSkin\/icons\/.*
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/control\/DefaultSkin\/icons\/.*
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/sidebar\/DefaultSkin\/background\/[^\/]+.gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/sidebar\/DefaultSkin\/background\/[^\/]+.gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/sidebar\/DefaultSkin\/icons\/.*
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/sidebar\/DefaultSkin\/icons\/.*
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/UIJCRExplorer\/DefaultSkin\/background\/[^\/]+.gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/skin\/webui\/component\/explorer\/UIJCRExplorer\/DefaultSkin\/background\/[^\/]+.gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecm-wcm-extension\/javascript\/eXo\/ecm\/[^\/]+.js
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecm-wcm-extension\/javascript\/eXo\/ecm\/[^\/]+.js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/exoadmin\/skin\/applicationregistry\/webui\/component\/UIApplicationRegistryPortlet\/DefaultSkin\/background\/[^\/]+.gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/exoadmin\/skin\/applicationregistry\/webui\/component\/UIApplicationRegistryPortlet\/DefaultSkin\/background\/[^\/]+.gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoDMSResources\/skin\/DefaultSkin\/skinIcons\/16x16\/icons\/NodeTypes\/[^\/]+.gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoDMSResources\/skin\/DefaultSkin\/skinIcons\/16x16\/icons\/NodeTypes\/[^\/]+.gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoGadgetServer\/gadgets\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoPlatformResources\/skin\/platformSkin\/UIToolbarContainer\/background\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoPlatformResources\/skin\/platformSkin\/UIToolbarContainer\/background\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/javascript\/eXo\/core\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/javascript\/eXo\/core\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/javascript\/eXo\/i18n\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/javascript\/eXo\/i18n\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/javascript\/eXo\/webui\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/javascript\/eXo\/webui\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/portal\/webui\/component\/widget\/UILoginForm\/background\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/portal\/webui\/component\/widget\/UILoginForm\/background\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/16x16\/icons\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/16x16\/icons\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/16x16\/icons\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/16x16\/icons\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/24x24\/icons\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/24x24\/icons\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/24x24\/icons\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/skinIcons\/24x24\/icons\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/webui\/component\/UIPopup\/UIPopupWindow\/background\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/webui\/component\/UIPopup\/UIPopupWindow\/background\/([^\/]+)png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/webui\/component\/UITree\/background\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/webui\/component\/UITree\/background\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/webui\/component\/UIUpload\/background\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoResources\/skin\/DefaultSkin\/webui\/component\/UIUpload\/background\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoWCMResources\/javascript\/eXo\/wcm\/frontoffice\/private\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoWCMResources\/javascript\/eXo\/wcm\/frontoffice\/private\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/eXoWCMResources\/javascript\/eXo\/wcm\/frontoffice\/public\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/eXoWCMResources\/javascript\/eXo\/wcm\/frontoffice\/public\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/javascript\/eXo\/ecm\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/ecmexplorer\/javascript\/eXo\/ecm\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/exo-gadget-resources\/skin\/exo-gadget\/images\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/exo-gadget-resources\/skin\/exo-gadget\/images\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/jcr\/repository\/collaboration\/sites%20content\/live\/acme\/medias\/images\/GlobalImages\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/jcr\/repository\/collaboration\/sites%20content\/live\/acme\/medias\/images\/GlobalImages\/([^\/]+)png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/jcr\/repository\/collaboration\/sites%20content\/live\/intranet\/web%20contents\/site%20artifacts\/Welcome\/medias\/images\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/portal\/rest\/jcr\/repository\/collaboration\/sites%20content\/live\/intranet\/web%20contents\/site%20artifacts\/Welcome\/medias\/images\/([^\/]+)png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/jcr\/repository\/collaboration\/sites%20content\/live\/default\/web%20contents\/site%20artifacts\/welcome\/medias\/images\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/jcr\/repository\/collaboration\/sites%20content\/live\/default\/web%20contents\/site%20artifacts\/welcome\/medias\/images\/([^\/]+)png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/jcr\/repository\/portal-system\/production\/app:gadgets\/app:Agenda\/app:data\/app:resources\/js\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/jcr\/repository\/portal-system\/production\/app:gadgets\/app:Agenda\/app:data\/app:resources\/js\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/rest\/jcr\/repository\/portal-system\/production\/app:gadgets\/app:Bookmark\/app:data\/app:resources\/images\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/rest\/jcr\/repository\/portal-system\/production\/app:gadgets\/app:Bookmark\/app:data\/app:resources\/images\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/seo\/skin\/webui\/seo\/DefaultSkin\/icons\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/seo\/skin\/webui\/seo\/DefaultSkin\/icons\/([^\/]+)png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/social-portlet\/skin\/social\/portlet\/UIProfileNavigationPortlet\/DefaultSkin\/background\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/social-portlet\/skin\/social\/portlet\/UIProfileNavigationPortlet\/DefaultSkin\/background\/([^\/]+)png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/social-portlet\/skin\/social\/portlet\/UISpaceSettingPortlet\/DefaultSkin\/background\/([^\/]+)gif
+... -- processing with pattern: ^http:\/\/[^\/]+\/social-portlet\/skin\/social\/portlet\/UISpaceSettingPortlet\/DefaultSkin\/background\/([^\/]+)gif
+... ++ processing with pattern: ^http:\/\/[^\/]+\/social-resources\/javascript\/eXo\/social\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/social-resources\/javascript\/eXo\/social\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/social-resources\/javascript\/eXo\/social\/webui\/([^\/]+)js
+... -- processing with pattern: ^http:\/\/[^\/]+\/social-resources\/javascript\/eXo\/social\/webui\/([^\/]+)js
+... ++ processing with pattern: ^http:\/\/[^\/]+\/social-resources\/skin\/social\/webui\/UIManageSpaces\/DefaultSkin\/background\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/social-resources\/skin\/social\/webui\/UIManageSpaces\/DefaultSkin\/background\/([^\/]+)png
+... ++ processing with pattern: ^http:\/\/[^\/]+\/social-resources\/skin\/social\/webui\/activity\/UIDefaultActivity\/background\/([^\/]+)png
+... -- processing with pattern: ^http:\/\/[^\/]+\/social-resources\/skin\/social\/webui\/activity\/UIDefaultActivity\/background\/([^\/]+)png
+++URL with parameters = 1
+++URL without parameters = 13
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Triggering a new build of [8mha:AAAAqx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/az8JP0Q1+CQ+DDPIHf/+HhDg/jgEMegkPhwY0c3fQBlSnb/1AAAAA==[0mTEST_VIRGO__10_START_W3AF
+Finished: SUCCESS

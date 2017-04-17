@@ -1,0 +1,628 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__00_run_way/workspace
+[workspace] $ /bin/bash /tmp/hudson3946213973767875443.sh
+/java/exo-working /var/jenkins_home/jobs/TEST_VIRGO__00_run_way/workspace
+/java/exo-working/w3af_auto /java/exo-working /var/jenkins_home/jobs/TEST_VIRGO__00_run_way/workspace
+mkdir: cannot create directory ‘tools’: File exists
+mkdir: cannot create directory ‘dependencies’: File exists
+... install w3af dependencies: 
+Hit http://security.debian.org jessie/updates InRelease
+Get:1 http://security.debian.org jessie/updates/main amd64 Packages [461 kB]
+Ign http://httpredir.debian.org jessie InRelease
+Get:2 http://httpredir.debian.org jessie-updates InRelease [145 kB]
+Get:3 http://httpredir.debian.org jessie-backports InRelease [166 kB]
+Hit http://httpredir.debian.org jessie Release.gpg
+Get:4 http://httpredir.debian.org jessie-updates/main amd64 Packages [17.6 kB]
+Hit http://httpredir.debian.org jessie Release
+Get:5 http://httpredir.debian.org jessie-backports/main amd64 Packages [1121 kB]
+Get:6 http://httpredir.debian.org jessie/main amd64 Packages [9049 kB]
+Fetched 11.0 MB in 53s (205 kB/s)
+Reading package lists...
+... install w3af dependencies: python-soappy python-lxml python-svn python-scapy
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gcc is already the newest version.
+python-lxml is already the newest version.
+python-svn is already the newest version.
+python-setuptools is already the newest version.
+python-soappy is already the newest version.
+python2.7-dev is already the newest version.
+python-scapy is already the newest version.
+tcpdump is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 125 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python-openssl is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 125 not upgraded.
+... install w3af dependencies: nltk-2.0b9.tar.gz, pybloomfiltermmap-0.2.0.tar.gz, PyYAML-3.09.tar.gz
+--2017-04-10 15:36:05--  https://pypi.python.org/packages/source/p/pybloomfiltermmap/pybloomfiltermmap-0.2.0.tar.gz
+Resolving pypi.python.org (pypi.python.org)... 151.101.0.223, 151.101.64.223, 151.101.128.223, ...
+Connecting to pypi.python.org (pypi.python.org)|151.101.0.223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 455809 (445K) [application/octet-stream]
+Saving to: ‘pybloomfiltermmap-0.2.0.tar.gz.1’
+
+     0K .......... .......... .......... .......... .......... 11%  244K 2s
+    50K .......... .......... .......... .......... .......... 22%  659K 1s
+   100K .......... .......... .......... .......... .......... 33%  848K 1s
+   150K .......... .......... .......... .......... .......... 44%  896K 0s
+   200K .......... .......... .......... .......... .......... 56% 71.4K 1s
+   250K .......... .......... .......... .......... .......... 67%  167K 1s
+   300K .......... .......... .......... .......... .......... 78%  555K 0s
+   350K .......... .......... .......... .......... .......... 89%  322K 0s
+   400K .......... .......... .......... .......... .....     100%  722K=1.7s
+
+2017-04-10 15:36:07 (261 KB/s) - ‘pybloomfiltermmap-0.2.0.tar.gz.1’ saved [455809/455809]
+
+Building from C
+running install
+running build
+running build_ext
+running install_lib
+running install_egg_info
+Removing /usr/local/lib/python2.7/dist-packages/pybloomfiltermmap-0.2.0.egg-info
+Writing /usr/local/lib/python2.7/dist-packages/pybloomfiltermmap-0.2.0.egg-info
+--2017-04-10 15:36:07--  http://pyyaml.org/download/pyyaml/PyYAML-3.09.tar.gz
+Resolving pyyaml.org (pyyaml.org)... 70.87.222.22
+Connecting to pyyaml.org (pyyaml.org)|70.87.222.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238383 (233K) [application/x-gzip]
+Saving to: ‘PyYAML-3.09.tar.gz.1’
+
+     0K .......... .......... .......... .......... .......... 21% 93.2K 2s
+    50K .......... .......... .......... .......... .......... 42%  141K 1s
+   100K .......... .......... .......... .......... .......... 64%  147K 1s
+   150K .......... .......... .......... .......... .......... 85%  141K 0s
+   200K .......... .......... .......... ..                   100%  157K=1.8s
+
+2017-04-10 15:36:10 (130 KB/s) - ‘PyYAML-3.09.tar.gz.1’ saved [238383/238383]
+
+running install
+running build
+running build_py
+running build_ext
+running install_lib
+running install_egg_info
+Removing /usr/local/lib/python2.7/dist-packages/PyYAML-3.09.egg-info
+Writing /usr/local/lib/python2.7/dist-packages/PyYAML-3.09.egg-info
+--2017-04-10 15:36:10--  https://pypi.python.org/packages/source/n/nltk/nltk-2.0b9.tar.gz
+Resolving pypi.python.org (pypi.python.org)... 151.101.0.223, 151.101.192.223, 151.101.64.223, ...
+Connecting to pypi.python.org (pypi.python.org)|151.101.0.223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 941347 (919K) [application/octet-stream]
+Saving to: ‘nltk-2.0b9.tar.gz.1’
+
+     0K .......... .......... .......... .......... ..........  5%  279K 3s
+    50K .......... .......... .......... .......... .......... 10%  455K 2s
+   100K .......... .......... .......... .......... .......... 16%  524K 2s
+   150K .......... .......... .......... .......... .......... 21%  498K 2s
+   200K .......... .......... .......... .......... .......... 27%  264K 2s
+   250K .......... .......... .......... .......... .......... 32%  991K 1s
+   300K .......... .......... .......... .......... .......... 38%  523K 1s
+   350K .......... .......... .......... .......... .......... 43%  347K 1s
+   400K .......... .......... .......... .......... .......... 48% 81.2K 2s
+   450K .......... .......... .......... .......... .......... 54%  152K 2s
+   500K .......... .......... .......... .......... .......... 59%  304K 1s
+   550K .......... .......... .......... .......... .......... 65%  383K 1s
+   600K .......... .......... .......... .......... .......... 70%  368K 1s
+   650K .......... .......... .......... .......... .......... 76%  121K 1s
+   700K .......... .......... .......... .......... .......... 81%  524K 1s
+   750K .......... .......... .......... .......... .......... 87%  210K 0s
+   800K .......... .......... .......... .......... .......... 92%  276K 0s
+   850K .......... .......... .......... .......... .......... 97%  163K 0s
+   900K .......... .........                                  100% 1.37M=3.6s
+
+2017-04-10 15:36:14 (256 KB/s) - ‘nltk-2.0b9.tar.gz.1’ saved [941347/941347]
+
+running install
+running bdist_egg
+running egg_info
+writing requirements to nltk.egg-info/requires.txt
+writing nltk.egg-info/PKG-INFO
+writing top-level names to nltk.egg-info/top_level.txt
+writing dependency_links to nltk.egg-info/dependency_links.txt
+package init file 'nltk/test/__init__.py' not found (or not a regular file)
+reading manifest file 'nltk.egg-info/SOURCES.txt'
+writing manifest file 'nltk.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-x86_64/egg
+running install_lib
+running build_py
+creating build/bdist.linux-x86_64/egg
+creating build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/collocations.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/naivebayes.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/weka.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/megam.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/tadm.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/maxent.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/rte_classify.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/mallet.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/api.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/util.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/decisiontree.py -> build/bdist.linux-x86_64/egg/nltk/classify
+copying build/lib.linux-x86_64-2.7/nltk/classify/__init__.py -> build/bdist.linux-x86_64/egg/nltk/classify
+creating build/bdist.linux-x86_64/egg/nltk/misc
+copying build/lib.linux-x86_64-2.7/nltk/misc/chomsky.py -> build/bdist.linux-x86_64/egg/nltk/misc
+copying build/lib.linux-x86_64-2.7/nltk/misc/minimalset.py -> build/bdist.linux-x86_64/egg/nltk/misc
+copying build/lib.linux-x86_64-2.7/nltk/misc/wordfinder.py -> build/bdist.linux-x86_64/egg/nltk/misc
+copying build/lib.linux-x86_64-2.7/nltk/misc/sort.py -> build/bdist.linux-x86_64/egg/nltk/misc
+copying build/lib.linux-x86_64-2.7/nltk/misc/__init__.py -> build/bdist.linux-x86_64/egg/nltk/misc
+copying build/lib.linux-x86_64-2.7/nltk/misc/babelfish.py -> build/bdist.linux-x86_64/egg/nltk/misc
+copying build/lib.linux-x86_64-2.7/nltk/containers.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/sourcedstring.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/mace.py -> build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/prover9.py -> build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/nonmonotonic.py -> build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/tableau.py -> build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/resolution.py -> build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/api.py -> build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/__init__.py -> build/bdist.linux-x86_64/egg/nltk/inference
+copying build/lib.linux-x86_64-2.7/nltk/inference/discourse.py -> build/bdist.linux-x86_64/egg/nltk/inference
+creating build/bdist.linux-x86_64/egg/nltk/examples
+copying build/lib.linux-x86_64-2.7/nltk/examples/pt.py -> build/bdist.linux-x86_64/egg/nltk/examples
+copying build/lib.linux-x86_64-2.7/nltk/examples/__init__.py -> build/bdist.linux-x86_64/egg/nltk/examples
+creating build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/confusionmatrix.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/association.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/agreement.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/distance.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/spearman.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/windowdiff.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/__init__.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/metrics/scores.py -> build/bdist.linux-x86_64/egg/nltk/metrics
+copying build/lib.linux-x86_64-2.7/nltk/lazyimport.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/cluster
+copying build/lib.linux-x86_64-2.7/nltk/cluster/gaac.py -> build/bdist.linux-x86_64/egg/nltk/cluster
+copying build/lib.linux-x86_64-2.7/nltk/cluster/em.py -> build/bdist.linux-x86_64/egg/nltk/cluster
+copying build/lib.linux-x86_64-2.7/nltk/cluster/kmeans.py -> build/bdist.linux-x86_64/egg/nltk/cluster
+copying build/lib.linux-x86_64-2.7/nltk/cluster/api.py -> build/bdist.linux-x86_64/egg/nltk/cluster
+copying build/lib.linux-x86_64-2.7/nltk/cluster/util.py -> build/bdist.linux-x86_64/egg/nltk/cluster
+copying build/lib.linux-x86_64-2.7/nltk/cluster/__init__.py -> build/bdist.linux-x86_64/egg/nltk/cluster
+creating build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/simplify.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/tnt.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/hmm.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/api.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/util.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/brill.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/crf.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/__init__.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/hunpos.py -> build/bdist.linux-x86_64/egg/nltk/tag
+copying build/lib.linux-x86_64-2.7/nltk/tag/sequential.py -> build/bdist.linux-x86_64/egg/nltk/tag
+creating build/bdist.linux-x86_64/egg/nltk/corpus
+copying build/lib.linux-x86_64-2.7/nltk/corpus/europarl_raw.py -> build/bdist.linux-x86_64/egg/nltk/corpus
+copying build/lib.linux-x86_64-2.7/nltk/corpus/util.py -> build/bdist.linux-x86_64/egg/nltk/corpus
+copying build/lib.linux-x86_64-2.7/nltk/corpus/__init__.py -> build/bdist.linux-x86_64/egg/nltk/corpus
+creating build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/chunked.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/ppattach.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/conll.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/wordnet.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/bracket_parse.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/sinica_treebank.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/propbank.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/senseval.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/string_category.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/ieer.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/ipipan.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/toolbox.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/bnc.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/nombank.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/tagged.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/dependency.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/wordlist.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/rte.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/nps_chat.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/indian.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/cmudict.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/switchboard.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/api.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/util.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/xmldocs.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/verbnet.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/plaintext.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/ycoe.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/timit.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/__init__.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/corpus/reader/pl196x.py -> build/bdist.linux-x86_64/egg/nltk/corpus/reader
+copying build/lib.linux-x86_64-2.7/nltk/grammar.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/chart.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/featurechart.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/nonprojectivedependencyparser.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/earleychart.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/sr.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/projectivedependencyparser.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/malt.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/viterbi.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/pchart.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/api.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/util.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/dependencygraph.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/generate.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/rd.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/parse/__init__.py -> build/bdist.linux-x86_64/egg/nltk/parse
+copying build/lib.linux-x86_64-2.7/nltk/book.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/data.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/model
+copying build/lib.linux-x86_64-2.7/nltk/model/ngram.py -> build/bdist.linux-x86_64/egg/nltk/model
+copying build/lib.linux-x86_64-2.7/nltk/model/api.py -> build/bdist.linux-x86_64/egg/nltk/model
+copying build/lib.linux-x86_64-2.7/nltk/model/__init__.py -> build/bdist.linux-x86_64/egg/nltk/model
+creating build/bdist.linux-x86_64/egg/nltk/draw
+copying build/lib.linux-x86_64-2.7/nltk/draw/dispersion.py -> build/bdist.linux-x86_64/egg/nltk/draw
+copying build/lib.linux-x86_64-2.7/nltk/draw/table.py -> build/bdist.linux-x86_64/egg/nltk/draw
+copying build/lib.linux-x86_64-2.7/nltk/draw/tree.py -> build/bdist.linux-x86_64/egg/nltk/draw
+copying build/lib.linux-x86_64-2.7/nltk/draw/cfg.py -> build/bdist.linux-x86_64/egg/nltk/draw
+copying build/lib.linux-x86_64-2.7/nltk/draw/util.py -> build/bdist.linux-x86_64/egg/nltk/draw
+copying build/lib.linux-x86_64-2.7/nltk/draw/__init__.py -> build/bdist.linux-x86_64/egg/nltk/draw
+copying build/lib.linux-x86_64-2.7/nltk/yamltags.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/rslp.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/wordnet.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/regexp.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/lancaster.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/api.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/isri.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/__init__.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/snowball.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/stem/porter.py -> build/bdist.linux-x86_64/egg/nltk/stem
+copying build/lib.linux-x86_64-2.7/nltk/tree.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/olac.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/etree
+copying build/lib.linux-x86_64-2.7/nltk/etree/ElementInclude.py -> build/bdist.linux-x86_64/egg/nltk/etree
+copying build/lib.linux-x86_64-2.7/nltk/etree/ElementPath.py -> build/bdist.linux-x86_64/egg/nltk/etree
+copying build/lib.linux-x86_64-2.7/nltk/etree/ElementTree.py -> build/bdist.linux-x86_64/egg/nltk/etree
+copying build/lib.linux-x86_64-2.7/nltk/etree/__init__.py -> build/bdist.linux-x86_64/egg/nltk/etree
+copying build/lib.linux-x86_64-2.7/nltk/probability.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/decorators.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/nltk.jar -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/toolbox
+copying build/lib.linux-x86_64-2.7/nltk/toolbox/toolbox.py -> build/bdist.linux-x86_64/egg/nltk/toolbox
+copying build/lib.linux-x86_64-2.7/nltk/toolbox/__init__.py -> build/bdist.linux-x86_64/egg/nltk/toolbox
+creating build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/texttiling.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/simple.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/regexp.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/punkt.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/sexpr.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/api.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/util.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/treebank.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+copying build/lib.linux-x86_64-2.7/nltk/tokenize/__init__.py -> build/bdist.linux-x86_64/egg/nltk/tokenize
+creating build/bdist.linux-x86_64/egg/nltk/chunk
+copying build/lib.linux-x86_64-2.7/nltk/chunk/named_entity.py -> build/bdist.linux-x86_64/egg/nltk/chunk
+copying build/lib.linux-x86_64-2.7/nltk/chunk/regexp.py -> build/bdist.linux-x86_64/egg/nltk/chunk
+copying build/lib.linux-x86_64-2.7/nltk/chunk/api.py -> build/bdist.linux-x86_64/egg/nltk/chunk
+copying build/lib.linux-x86_64-2.7/nltk/chunk/util.py -> build/bdist.linux-x86_64/egg/nltk/chunk
+copying build/lib.linux-x86_64-2.7/nltk/chunk/__init__.py -> build/bdist.linux-x86_64/egg/nltk/chunk
+creating build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/simple.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/sourcedstring.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/corpus.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/portuguese_en.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/classify.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/semantics.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/probability.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/logic.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/nonmonotonic.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/data.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/ccg.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/dependency.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/wordnet.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/misc.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/tag.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/discourse.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/metrics.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/util.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/internals.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/featstruct.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/tree.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/chunk.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/resolution.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/featgram.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/tokenize.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/treetransforms.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/grammartestsuites.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/toolbox.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/parse.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/grammar.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/collocations.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/relextract.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/chat80.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/stem.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/gluesemantics.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/drt.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+copying build/lib.linux-x86_64-2.7/nltk/test/inference.doctest -> build/bdist.linux-x86_64/egg/nltk/test
+creating build/bdist.linux-x86_64/egg/nltk/ccg
+copying build/lib.linux-x86_64-2.7/nltk/ccg/chart.py -> build/bdist.linux-x86_64/egg/nltk/ccg
+copying build/lib.linux-x86_64-2.7/nltk/ccg/lexicon.py -> build/bdist.linux-x86_64/egg/nltk/ccg
+copying build/lib.linux-x86_64-2.7/nltk/ccg/api.py -> build/bdist.linux-x86_64/egg/nltk/ccg
+copying build/lib.linux-x86_64-2.7/nltk/ccg/combinator.py -> build/bdist.linux-x86_64/egg/nltk/ccg
+copying build/lib.linux-x86_64-2.7/nltk/ccg/__init__.py -> build/bdist.linux-x86_64/egg/nltk/ccg
+copying build/lib.linux-x86_64-2.7/nltk/util.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/help.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/text.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/internals.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/chat/eliza.py -> build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/chat/rude.py -> build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/chat/iesha.py -> build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/chat/suntsu.py -> build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/chat/util.py -> build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/chat/__init__.py -> build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/chat/zen.py -> build/bdist.linux-x86_64/egg/nltk/chat
+copying build/lib.linux-x86_64-2.7/nltk/downloader.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/relextract.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/drt_glue_demo.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/glue.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/chat80.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/linearlogic.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/lfg.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/logic.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/hole.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/util.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/cooper_storage.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/drt.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/evaluate.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/boxer.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/sem/__init__.py -> build/bdist.linux-x86_64/egg/nltk/sem
+copying build/lib.linux-x86_64-2.7/nltk/featstruct.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/treetransforms.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/evaluate.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/__init__.py -> build/bdist.linux-x86_64/egg/nltk
+copying build/lib.linux-x86_64-2.7/nltk/compat.py -> build/bdist.linux-x86_64/egg/nltk
+creating build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/chunkparser_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/srparser_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/wxwordnet_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/collocations_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/chartparser_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/nemo_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/wordnet_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/concordance_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/rdparser_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/wordfreq_app.py -> build/bdist.linux-x86_64/egg/nltk/app
+copying build/lib.linux-x86_64-2.7/nltk/app/__init__.py -> build/bdist.linux-x86_64/egg/nltk/app
+byte-compiling build/bdist.linux-x86_64/egg/nltk/collocations.py to collocations.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/naivebayes.py to naivebayes.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/weka.py to weka.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/megam.py to megam.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/tadm.py to tadm.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/maxent.py to maxent.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/rte_classify.py to rte_classify.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/mallet.py to mallet.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/decisiontree.py to decisiontree.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/classify/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/misc/chomsky.py to chomsky.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/misc/minimalset.py to minimalset.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/misc/wordfinder.py to wordfinder.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/misc/sort.py to sort.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/misc/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/misc/babelfish.py to babelfish.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/containers.py to containers.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sourcedstring.py to sourcedstring.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/mace.py to mace.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/prover9.py to prover9.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/nonmonotonic.py to nonmonotonic.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/tableau.py to tableau.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/resolution.py to resolution.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/inference/discourse.py to discourse.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/examples/pt.py to pt.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/examples/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/confusionmatrix.py to confusionmatrix.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/association.py to association.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/agreement.py to agreement.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/distance.py to distance.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/spearman.py to spearman.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/windowdiff.py to windowdiff.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/metrics/scores.py to scores.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/lazyimport.py to lazyimport.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/cluster/gaac.py to gaac.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/cluster/em.py to em.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/cluster/kmeans.py to kmeans.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/cluster/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/cluster/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/cluster/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/simplify.py to simplify.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/tnt.py to tnt.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/hmm.py to hmm.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/brill.py to brill.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/crf.py to crf.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/hunpos.py to hunpos.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tag/sequential.py to sequential.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/europarl_raw.py to europarl_raw.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/chunked.py to chunked.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/ppattach.py to ppattach.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/conll.py to conll.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/wordnet.py to wordnet.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/bracket_parse.py to bracket_parse.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/sinica_treebank.py to sinica_treebank.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/propbank.py to propbank.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/senseval.py to senseval.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/string_category.py to string_category.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/ieer.py to ieer.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/ipipan.py to ipipan.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/toolbox.py to toolbox.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/bnc.py to bnc.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/nombank.py to nombank.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/tagged.py to tagged.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/dependency.py to dependency.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/wordlist.py to wordlist.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/rte.py to rte.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/nps_chat.py to nps_chat.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/indian.py to indian.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/cmudict.py to cmudict.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/switchboard.py to switchboard.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/xmldocs.py to xmldocs.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/verbnet.py to verbnet.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/plaintext.py to plaintext.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/ycoe.py to ycoe.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/timit.py to timit.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/corpus/reader/pl196x.py to pl196x.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/grammar.py to grammar.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/chart.py to chart.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/featurechart.py to featurechart.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/nonprojectivedependencyparser.py to nonprojectivedependencyparser.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/earleychart.py to earleychart.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/sr.py to sr.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/projectivedependencyparser.py to projectivedependencyparser.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/malt.py to malt.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/viterbi.py to viterbi.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/pchart.py to pchart.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/dependencygraph.py to dependencygraph.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/generate.py to generate.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/rd.py to rd.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/parse/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/book.py to book.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/data.py to data.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/model/ngram.py to ngram.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/model/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/model/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/draw/dispersion.py to dispersion.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/draw/table.py to table.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/draw/tree.py to tree.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/draw/cfg.py to cfg.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/draw/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/draw/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/yamltags.py to yamltags.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/rslp.py to rslp.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/wordnet.py to wordnet.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/regexp.py to regexp.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/lancaster.py to lancaster.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/isri.py to isri.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/snowball.py to snowball.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/stem/porter.py to porter.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tree.py to tree.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/olac.py to olac.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/etree/ElementInclude.py to ElementInclude.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/etree/ElementPath.py to ElementPath.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/etree/ElementTree.py to ElementTree.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/etree/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/probability.py to probability.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/decorators.py to decorators.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/toolbox/toolbox.py to toolbox.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/toolbox/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/texttiling.py to texttiling.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/simple.py to simple.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/regexp.py to regexp.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/punkt.py to punkt.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/sexpr.py to sexpr.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/treebank.py to treebank.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/tokenize/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chunk/named_entity.py to named_entity.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chunk/regexp.py to regexp.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chunk/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chunk/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chunk/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/ccg/chart.py to chart.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/ccg/lexicon.py to lexicon.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/ccg/api.py to api.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/ccg/combinator.py to combinator.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/ccg/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/help.py to help.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/text.py to text.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/internals.py to internals.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chat/eliza.py to eliza.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chat/rude.py to rude.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chat/iesha.py to iesha.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chat/suntsu.py to suntsu.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chat/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chat/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/chat/zen.py to zen.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/downloader.py to downloader.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/relextract.py to relextract.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/drt_glue_demo.py to drt_glue_demo.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/glue.py to glue.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/chat80.py to chat80.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/linearlogic.py to linearlogic.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/lfg.py to lfg.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/logic.py to logic.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/hole.py to hole.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/util.py to util.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/cooper_storage.py to cooper_storage.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/drt.py to drt.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/evaluate.py to evaluate.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/boxer.py to boxer.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/sem/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/featstruct.py to featstruct.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/treetransforms.py to treetransforms.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/evaluate.py to evaluate.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/compat.py to compat.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/chunkparser_app.py to chunkparser_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/srparser_app.py to srparser_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/wxwordnet_app.py to wxwordnet_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/collocations_app.py to collocations_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/chartparser_app.py to chartparser_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/nemo_app.py to nemo_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/wordnet_app.py to wordnet_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/concordance_app.py to concordance_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/rdparser_app.py to rdparser_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/wordfreq_app.py to wordfreq_app.pyc
+byte-compiling build/bdist.linux-x86_64/egg/nltk/app/__init__.py to __init__.pyc
+creating build/bdist.linux-x86_64/egg/EGG-INFO
+copying nltk.egg-info/PKG-INFO -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nltk.egg-info/SOURCES.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nltk.egg-info/dependency_links.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nltk.egg-info/not-zip-safe -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nltk.egg-info/requires.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nltk.egg-info/top_level.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+creating 'dist/nltk-2.0b9-py2.7.egg' and adding 'build/bdist.linux-x86_64/egg' to it
+removing 'build/bdist.linux-x86_64/egg' (and everything under it)
+Processing nltk-2.0b9-py2.7.egg
+removing '/usr/local/lib/python2.7/dist-packages/nltk-2.0b9-py2.7.egg' (and everything under it)
+creating /usr/local/lib/python2.7/dist-packages/nltk-2.0b9-py2.7.egg
+Extracting nltk-2.0b9-py2.7.egg to /usr/local/lib/python2.7/dist-packages
+nltk 2.0b9 is already the active version in easy-install.pth
+
+Installed /usr/local/lib/python2.7/dist-packages/nltk-2.0b9-py2.7.egg
+Processing dependencies for nltk==2.0b9
+Searching for PyYAML==3.09
+Best match: PyYAML 3.09
+Adding PyYAML 3.09 to easy-install.pth file
+
+Using /usr/local/lib/python2.7/dist-packages
+Searching for setuptools==5.5.1
+Best match: setuptools 5.5.1
+setuptools 5.5.1 is already the active version in easy-install.pth
+Installing easy_install script to /usr/local/bin
+Installing easy_install-2.7 script to /usr/local/bin
+
+Using /usr/lib/python2.7/dist-packages
+Finished processing dependencies for nltk==2.0b9
+/java/exo-working /var/jenkins_home/jobs/TEST_VIRGO__00_run_way/workspace
+[/java/exo-working/plf-community-tomcat-standalone-4.3.0.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+unzip:  cannot find zipfile directory in one of /java/exo-working/plf-community-tomcat-standalone-4.3.0.zip or
+        /java/exo-working/plf-community-tomcat-standalone-4.3.0.zip.zip, and cannot find /java/exo-working/plf-community-tomcat-standalone-4.3.0.zip.ZIP, period.
+Build step 'Execute shell' marked build as failure
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Finished: FAILURE

@@ -1,0 +1,16 @@
+Checking COPY_ACCESS_LOG
+Checking START_APPLICATION
+Checking START_PARSER
+Checking START_SELENIUM_RC
+Checking STOP_APPLICATION
+Checking STOP_SELENIUM_RC
+Checking STOP_W3AF
+Checking TEST_VIRGO__00_run_way
+Checking TEST_VIRGO__00_start-new-bridge
+Checking TEST_VIRGO__01_stop-previous
+Checking TEST_VIRGO__05_start-new
+Checking TEST_VIRGO__07_Measure
+Checking TEST_VIRGO__08_upload-reports
+Checking TEST_VIRGO__09_PARSE_ACCESS_LOG
+Checking TEST_VIRGO__10_START_W3AF
+Checking TEST_VIRGO__CleanPreviousApplication

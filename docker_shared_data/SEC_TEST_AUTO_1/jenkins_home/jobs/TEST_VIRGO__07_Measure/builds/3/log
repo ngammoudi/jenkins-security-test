@@ -1,0 +1,814 @@
+Started by upstream project "[8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgY5/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9ACKzoz7TAAAA[0mTEST_VIRGO__05_start-new" build number [8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBnn9rPwk/RDX4JD4MM8gd//4eAPT+OKSxKIS3bzUcn1TANU+FOrUAAAA[0m5
+originally caused by:
+ Started by upstream project "[8mha:AAAAth+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYt/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9AG5K4jvfAAAA[0mTEST_VIRGO__CleanPreviousApplication" build number [8mha:AAAAth+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBm39rPwk/RDX4JD4MM8gd//4eOec1MS8gKLUssz80mLHgoKczOTEksz8PH1TAEPPD1HgAAAA[0m5
+ originally caused by:
+  Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous" build number [8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmX9rPwk/RDX4JD4MM8gd//4eAPD+OKS/ALdgqLUssz80mJ9UwCYbhzj2AAAAA==[0m5
+  originally caused by:
+   Started by upstream project "[8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfQDQnXCM2gAAAA==[0mTEST_VIRGO__00_start-new-bridge" build number [8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBjX9rPwk/RDX4JD4MM8gd//4eAOD+OKSxKIS3bzUct2kosyU9FR9UwAj3q+72wAAAA==[0m5
+   originally caused by:
+    Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+[workspace] $ /bin/bash /tmp/hudson5022492118977122394.sh
+:99
+/java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Tue Apr 11 10:06:20 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   24G  180G  12% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   24G  180G  12% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Tue Apr 11 10:06:20 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955      13070       2884        965       1232       3076
+-/+ buffers/cache:       8761       7194
+Swap:        15623         16      15607
+Tue Apr 11 10:06:20 UTC 2017 INFO:: users login
+Tue Apr 11 10:06:20 UTC 2017 INFO:: uptime
+ 10:06:20 up 1 day,  1:38,  0 users,  load average: 1.84, 1.61, 2.00
+ -----------------------------------------------------------------------------------------
+STAGE=SECURITY_TEST, RESET_CODE=
+ ++ loadfirstconfigline_to_testplan_current_testconfig
+firstline= /java/exo-working/TC/current/ RE_USE!WIKI 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh, RESET_CODE=
+ -- loadfirstconfigline_to_testplan_current_testconfig = [ /java/exo-working/TC/current/ RE_USE!WIKI 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh] 
+last_status=0
+ ++ load_testplan_current_testconfig
+ -- load_testplan_current_testconfig
+arguments=60:/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh WIKI
+nohup /java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh WIKI
+Tue Apr 11 10:06:20 UTC 2017 command_id=21729
+Tue Apr 11 10:06:20 UTC 2017 watching for 3600 seconds to kill 21729
+ ... still watching after 0 seconds ... 
+Tue Apr 11 10:06:20 UTC 2017, going to run test on module: WIKI
+cp: cannot stat ‘/java/exo-working/automation_xss_tc/plf//COMMON/*.jar’: No such file or directory
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620 /java/exo-working/automation_xss_tc/testsuite
+Tue Apr 11 10:06:20 UTC 2017,INFO:: build test suites and test result table
+Tue Apr 11 10:06:20 UTC 2017,INFO:: doing pretests
+Tue Apr 11 10:06:20 UTC 2017, INFO:: testscript=COMM_pretest.html 
+10:06:20.385 INFO - Launching a standalone Selenium Server
+10:06:20.402 INFO - Java: Oracle Corporation 25.72-b15
+10:06:20.402 INFO - OS: Linux 4.4.0-66-generic amd64
+10:06:20.408 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:06:20.441 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:06:20.442 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:06:20.442 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:06:20.442 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:06:20.444 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:06:20.510 INFO - Launching Firefox...
+ ... still watching after 5 seconds ... 
+ ... still watching after 10 seconds ... 
+ ... still watching after 15 seconds ... 
+ ... still watching after 20 seconds ... 
+ ... still watching after 25 seconds ... 
+ ... still watching after 30 seconds ... 
+ ... still watching after 35 seconds ... 
+ ... still watching after 40 seconds ... 
+ ... still watching after 45 seconds ... 
+ ... still watching after 50 seconds ... 
+ ... still watching after 55 seconds ... 
+ ... still watching after 60 seconds ... 
+ ... still watching after 65 seconds ... 
+ ... still watching after 70 seconds ... 
+ ... still watching after 75 seconds ... 
+ ... still watching after 80 seconds ... 
+ ... still watching after 85 seconds ... 
+ ... still watching after 90 seconds ... 
+ ... still watching after 95 seconds ... 
+ ... still watching after 100 seconds ... 
+ ... still watching after 105 seconds ... 
+ ... still watching after 110 seconds ... 
+ ... still watching after 115 seconds ... 
+10:08:17.489 INFO - Received posted results
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+</tbody></table>
+
+
+
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_passed"><td>
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_passed"><td>
+10:08:18.047 INFO - Killing Firefox...
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_1.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_10.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_11.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_12.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_2.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_3.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_4.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_5.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_6.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_7.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_8.html 
+Tue Apr 11 10:08:18 UTC 2017, INFO:: testscript=XSS_REFL_Wiki_9.html 
+Tue Apr 11 10:08:18 UTC 2017,INFO:: start testing
+Tue Apr 11 10:08:18 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_1.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_1.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:08:18.518 INFO - Launching a standalone Selenium Server
+10:08:18.534 INFO - Java: Oracle Corporation 25.72-b15
+10:08:18.535 INFO - OS: Linux 4.4.0-66-generic amd64
+10:08:18.540 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:08:18.573 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:08:18.573 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:08:18.574 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:08:18.574 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:08:18.575 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:08:18.636 INFO - Launching Firefox...
+ ... still watching after 120 seconds ... 
+ ... still watching after 125 seconds ... 
+ ... still watching after 130 seconds ... 
+ ... still watching after 135 seconds ... 
+ ... still watching after 140 seconds ... 
+ ... still watching after 145 seconds ... 
+ ... still watching after 150 seconds ... 
+ ... still watching after 155 seconds ... 
+ ... still watching after 160 seconds ... 
+ ... still watching after 165 seconds ... 
+ ... still watching after 170 seconds ... 
+ ... still watching after 175 seconds ... 
+10:09:19.679 INFO - Received posted results
+XSS_REFL_Wiki_1.html
+<a href="XSS_REFL_Wiki_1.html">XSS_REFL_Wiki_1</a></td></tr>
+</tbody></table>
+
+
+
+10:09:20.157 INFO - Killing Firefox...
+10:09:20.214 INFO - Shutting down...
+ ... still watching after 180 seconds ... 
+Tue Apr 11 10:09:20 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_1.html done, exit
+ ... still watching after 185 seconds ... 
+ ... still watching after 190 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (22257) - No such process
+Tue Apr 11 10:09:30 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_10.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_10.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:09:30.622 INFO - Launching a standalone Selenium Server
+10:09:30.639 INFO - Java: Oracle Corporation 25.72-b15
+10:09:30.639 INFO - OS: Linux 4.4.0-66-generic amd64
+10:09:30.645 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:09:30.678 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:09:30.678 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:09:30.678 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:09:30.679 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:09:30.680 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:09:30.741 INFO - Launching Firefox...
+ ... still watching after 195 seconds ... 
+ ... still watching after 200 seconds ... 
+ ... still watching after 205 seconds ... 
+ ... still watching after 210 seconds ... 
+ ... still watching after 215 seconds ... 
+ ... still watching after 220 seconds ... 
+ ... still watching after 225 seconds ... 
+ ... still watching after 230 seconds ... 
+ ... still watching after 235 seconds ... 
+ ... still watching after 240 seconds ... 
+ ... still watching after 245 seconds ... 
+ ... still watching after 250 seconds ... 
+ ... still watching after 255 seconds ... 
+10:10:35.632 INFO - Received posted results
+XSS_REFL_Wiki_10.html
+<a href="XSS_REFL_Wiki_10.html">XSS_REFL_Wiki_10</a></td></tr>
+</tbody></table>
+
+
+
+10:10:35.763 INFO - Killing Firefox...
+Tue Apr 11 10:10:36 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_10.html done, exit
+Tue Apr 11 10:10:36 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_11.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_11.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:10:36.188 INFO - Launching a standalone Selenium Server
+10:10:36.205 INFO - Java: Oracle Corporation 25.72-b15
+10:10:36.205 INFO - OS: Linux 4.4.0-66-generic amd64
+10:10:36.211 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:10:36.243 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:10:36.244 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:10:36.244 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:10:36.244 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:10:36.244 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:10:36.307 INFO - Launching Firefox...
+ ... still watching after 260 seconds ... 
+ ... still watching after 265 seconds ... 
+ ... still watching after 270 seconds ... 
+ ... still watching after 275 seconds ... 
+ ... still watching after 280 seconds ... 
+ ... still watching after 285 seconds ... 
+ ... still watching after 290 seconds ... 
+ ... still watching after 295 seconds ... 
+ ... still watching after 300 seconds ... 
+ ... still watching after 305 seconds ... 
+ ... still watching after 310 seconds ... 
+ ... still watching after 315 seconds ... 
+ ... still watching after 320 seconds ... 
+10:11:43.247 INFO - Received posted results
+XSS_REFL_Wiki_11.html
+<a href="XSS_REFL_Wiki_11.html">XSS_REFL_Wiki_11</a></td></tr>
+</tbody></table>
+
+
+
+10:11:43.327 INFO - Killing Firefox...
+Tue Apr 11 10:11:44 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_11.html done, exit
+ ... still watching after 325 seconds ... 
+ ... still watching after 330 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (22835) - No such process
+Tue Apr 11 10:11:53 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_12.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_12.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:11:53.713 INFO - Launching a standalone Selenium Server
+10:11:53.729 INFO - Java: Oracle Corporation 25.72-b15
+10:11:53.729 INFO - OS: Linux 4.4.0-66-generic amd64
+10:11:53.735 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:11:53.768 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:11:53.768 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:11:53.768 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:11:53.768 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:11:53.769 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:11:53.832 INFO - Launching Firefox...
+ ... still watching after 335 seconds ... 
+ ... still watching after 340 seconds ... 
+ ... still watching after 345 seconds ... 
+ ... still watching after 350 seconds ... 
+ ... still watching after 355 seconds ... 
+ ... still watching after 360 seconds ... 
+ ... still watching after 365 seconds ... 
+ ... still watching after 370 seconds ... 
+ ... still watching after 375 seconds ... 
+ ... still watching after 380 seconds ... 
+ ... still watching after 385 seconds ... 
+ ... still watching after 390 seconds ... 
+ ... still watching after 395 seconds ... 
+ ... still watching after 400 seconds ... 
+10:13:01.270 INFO - Received posted results
+XSS_REFL_Wiki_12.html
+<a href="XSS_REFL_Wiki_12.html">XSS_REFL_Wiki_12</a></td></tr>
+</tbody></table>
+
+
+
+10:13:01.354 INFO - Killing Firefox...
+10:13:01.412 INFO - Shutting down...
+Tue Apr 11 10:13:02 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_12.html done, exit
+ ... still watching after 405 seconds ... 
+ ... still watching after 410 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (23141) - No such process
+Tue Apr 11 10:13:11 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_2.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_2.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:13:11.745 INFO - Launching a standalone Selenium Server
+10:13:11.763 INFO - Java: Oracle Corporation 25.72-b15
+10:13:11.763 INFO - OS: Linux 4.4.0-66-generic amd64
+10:13:11.769 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:13:11.803 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:13:11.803 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:13:11.803 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:13:11.803 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:13:11.805 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:13:11.874 INFO - Launching Firefox...
+ ... still watching after 415 seconds ... 
+ ... still watching after 420 seconds ... 
+ ... still watching after 425 seconds ... 
+ ... still watching after 430 seconds ... 
+ ... still watching after 435 seconds ... 
+ ... still watching after 440 seconds ... 
+ ... still watching after 445 seconds ... 
+ ... still watching after 450 seconds ... 
+ ... still watching after 455 seconds ... 
+ ... still watching after 460 seconds ... 
+ ... still watching after 465 seconds ... 
+ ... still watching after 470 seconds ... 
+10:14:11.216 INFO - Received posted results
+XSS_REFL_Wiki_2.html
+<a href="XSS_REFL_Wiki_2.html">XSS_REFL_Wiki_2</a></td></tr>
+</tbody></table>
+
+
+
+10:14:11.395 INFO - Killing Firefox...
+Tue Apr 11 10:14:14 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_2.html done, exit
+ ... still watching after 475 seconds ... 
+ ... still watching after 480 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (23445) - No such process
+Tue Apr 11 10:14:21 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_3.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_3.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:14:21.857 INFO - Launching a standalone Selenium Server
+10:14:21.873 INFO - Java: Oracle Corporation 25.72-b15
+10:14:21.873 INFO - OS: Linux 4.4.0-66-generic amd64
+10:14:21.880 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:14:21.914 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:14:21.914 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:14:21.914 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:14:21.914 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:14:21.915 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:14:21.982 INFO - Launching Firefox...
+ ... still watching after 485 seconds ... 
+ ... still watching after 490 seconds ... 
+ ... still watching after 495 seconds ... 
+ ... still watching after 500 seconds ... 
+ ... still watching after 505 seconds ... 
+ ... still watching after 510 seconds ... 
+ ... still watching after 515 seconds ... 
+ ... still watching after 520 seconds ... 
+ ... still watching after 525 seconds ... 
+ ... still watching after 530 seconds ... 
+ ... still watching after 535 seconds ... 
+ ... still watching after 540 seconds ... 
+ ... still watching after 545 seconds ... 
+ ... still watching after 550 seconds ... 
+10:15:31.112 INFO - Received posted results
+XSS_REFL_Wiki_3.html
+<a href="XSS_REFL_Wiki_3.html">XSS_REFL_Wiki_3</a></td></tr>
+</tbody></table>
+
+
+
+10:15:31.504 INFO - Killing Firefox...
+Tue Apr 11 10:15:33 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_3.html done, exit
+ ... still watching after 555 seconds ... 
+ ... still watching after 560 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (23712) - No such process
+Tue Apr 11 10:15:41 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_4.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_4.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:15:41.897 INFO - Launching a standalone Selenium Server
+10:15:41.914 INFO - Java: Oracle Corporation 25.72-b15
+10:15:41.914 INFO - OS: Linux 4.4.0-66-generic amd64
+10:15:41.920 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:15:41.957 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:15:41.957 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:15:41.957 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:15:41.957 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:15:41.958 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:15:42.027 INFO - Launching Firefox...
+ ... still watching after 565 seconds ... 
+ ... still watching after 570 seconds ... 
+ ... still watching after 575 seconds ... 
+ ... still watching after 580 seconds ... 
+ ... still watching after 585 seconds ... 
+ ... still watching after 590 seconds ... 
+ ... still watching after 595 seconds ... 
+ ... still watching after 600 seconds ... 
+ ... still watching after 605 seconds ... 
+ ... still watching after 610 seconds ... 
+ ... still watching after 615 seconds ... 
+ ... still watching after 620 seconds ... 
+ ... still watching after 625 seconds ... 
+ ... still watching after 630 seconds ... 
+10:16:51.053 INFO - Received posted results
+XSS_REFL_Wiki_4.html
+<a href="XSS_REFL_Wiki_4.html">XSS_REFL_Wiki_4</a></td></tr>
+</tbody></table>
+
+
+
+10:16:51.552 INFO - Killing Firefox...
+Tue Apr 11 10:16:53 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_4.html done, exit
+ ... still watching after 635 seconds ... 
+ ... still watching after 640 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (24034) - No such process
+Tue Apr 11 10:17:01 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_5.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_5.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:17:01.994 INFO - Launching a standalone Selenium Server
+10:17:02.011 INFO - Java: Oracle Corporation 25.72-b15
+10:17:02.011 INFO - OS: Linux 4.4.0-66-generic amd64
+10:17:02.018 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:17:02.050 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:17:02.050 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:17:02.050 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:17:02.050 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:17:02.051 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:17:02.114 INFO - Launching Firefox...
+ ... still watching after 645 seconds ... 
+ ... still watching after 650 seconds ... 
+ ... still watching after 655 seconds ... 
+ ... still watching after 660 seconds ... 
+ ... still watching after 665 seconds ... 
+ ... still watching after 670 seconds ... 
+ ... still watching after 675 seconds ... 
+ ... still watching after 680 seconds ... 
+ ... still watching after 685 seconds ... 
+ ... still watching after 690 seconds ... 
+ ... still watching after 695 seconds ... 
+ ... still watching after 700 seconds ... 
+ ... still watching after 705 seconds ... 
+ ... still watching after 710 seconds ... 
+10:18:11.415 INFO - Received posted results
+XSS_REFL_Wiki_5.html
+<a href="XSS_REFL_Wiki_5.html">XSS_REFL_Wiki_5</a></td></tr>
+</tbody></table>
+
+
+
+10:18:11.635 INFO - Killing Firefox...
+Tue Apr 11 10:18:13 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_5.html done, exit
+ ... still watching after 715 seconds ... 
+ ... still watching after 720 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (24357) - No such process
+Tue Apr 11 10:18:21 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_6.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_6.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:18:21.970 INFO - Launching a standalone Selenium Server
+10:18:21.987 INFO - Java: Oracle Corporation 25.72-b15
+10:18:21.987 INFO - OS: Linux 4.4.0-66-generic amd64
+10:18:21.993 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:18:22.031 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:18:22.032 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:18:22.032 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:18:22.032 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:18:22.034 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:18:22.103 INFO - Launching Firefox...
+ ... still watching after 725 seconds ... 
+ ... still watching after 730 seconds ... 
+ ... still watching after 735 seconds ... 
+ ... still watching after 740 seconds ... 
+ ... still watching after 745 seconds ... 
+ ... still watching after 750 seconds ... 
+ ... still watching after 755 seconds ... 
+ ... still watching after 760 seconds ... 
+ ... still watching after 765 seconds ... 
+ ... still watching after 770 seconds ... 
+10:19:15.050 INFO - Received posted results
+XSS_REFL_Wiki_6.html
+<a href="XSS_REFL_Wiki_6.html">XSS_REFL_Wiki_6</a></td></tr>
+</tbody></table>
+
+
+
+10:19:15.122 INFO - Killing Firefox...
+Tests failed, see result file for details: /java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_100620/./RESULT_SUITE_XSS_REFL_Wiki_6.html
+10:19:15.179 INFO - Shutting down...
+Tue Apr 11 10:19:15 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_6.html done, exit
+ ... still watching after 775 seconds ... 
+head: cannot open ‘/root/testsuite/TEST_VIRGO_CURRENT_CONFIG’ for reading: No such file or directory
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 163: /root/testsuite/TEST_VIRGO_CURRENT_CONFIG: No such file or directory
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 164: /root/testsuite/TEST_VIRGO_CONFIRM_CURRENT_CONFIG: No such file or directory
+Tue Apr 11 10:19:15 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_7.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_7.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:19:15.539 INFO - Launching a standalone Selenium Server
+10:19:15.557 INFO - Java: Oracle Corporation 25.72-b15
+10:19:15.557 INFO - OS: Linux 4.4.0-66-generic amd64
+10:19:15.564 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:19:15.604 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:19:15.604 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:19:15.605 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:19:15.605 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:19:15.606 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:19:15.679 INFO - Launching Firefox...
+ ... still watching after 780 seconds ... 
+ ... still watching after 785 seconds ... 
+ ... still watching after 790 seconds ... 
+ ... still watching after 795 seconds ... 
+ ... still watching after 800 seconds ... 
+ ... still watching after 805 seconds ... 
+ ... still watching after 810 seconds ... 
+ ... still watching after 815 seconds ... 
+ ... still watching after 820 seconds ... 
+ ... still watching after 825 seconds ... 
+ ... still watching after 830 seconds ... 
+ ... still watching after 835 seconds ... 
+10:20:16.985 INFO - Received posted results
+XSS_REFL_Wiki_7.html
+<a href="XSS_REFL_Wiki_7.html">XSS_REFL_Wiki_7</a></td></tr>
+</tbody></table>
+
+
+
+10:20:17.199 INFO - Killing Firefox...
+Tue Apr 11 10:20:17 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_7.html done, exit
+ ... still watching after 840 seconds ... 
+ ... still watching after 845 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (24933) - No such process
+Tue Apr 11 10:20:27 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_8.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_8.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:20:27.624 INFO - Launching a standalone Selenium Server
+10:20:27.641 INFO - Java: Oracle Corporation 25.72-b15
+10:20:27.641 INFO - OS: Linux 4.4.0-66-generic amd64
+10:20:27.647 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:20:27.679 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:20:27.679 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:20:27.680 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:20:27.680 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:20:27.681 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:20:27.748 INFO - Launching Firefox...
+ ... still watching after 850 seconds ... 
+ ... still watching after 855 seconds ... 
+ ... still watching after 860 seconds ... 
+ ... still watching after 865 seconds ... 
+ ... still watching after 870 seconds ... 
+ ... still watching after 875 seconds ... 
+ ... still watching after 880 seconds ... 
+ ... still watching after 885 seconds ... 
+ ... still watching after 890 seconds ... 
+ ... still watching after 895 seconds ... 
+ ... still watching after 900 seconds ... 
+ ... still watching after 905 seconds ... 
+ ... still watching after 910 seconds ... 
+ ... still watching after 915 seconds ... 
+ ... still watching after 920 seconds ... 
+ ... still watching after 925 seconds ... 
+ ... still watching after 930 seconds ... 
+10:21:50.858 INFO - Received posted results
+XSS_REFL_Wiki_8.html
+<a href="XSS_REFL_Wiki_8.html">XSS_REFL_Wiki_8</a></td></tr>
+</tbody></table>
+
+
+
+10:21:51.273 INFO - Killing Firefox...
+Tests failed, see result file for details: /java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_100620/./RESULT_SUITE_XSS_REFL_Wiki_8.html
+10:21:51.330 INFO - Shutting down...
+Tue Apr 11 10:21:51 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_8.html done, exit
+head: cannot open ‘/root/testsuite/TEST_VIRGO_CURRENT_CONFIG’ for reading: No such file or directory
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 163: /root/testsuite/TEST_VIRGO_CURRENT_CONFIG: No such file or directory
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 164: /root/testsuite/TEST_VIRGO_CONFIRM_CURRENT_CONFIG: No such file or directory
+Tue Apr 11 10:21:51 UTC 2017, >>> processing SUITE_XSS_REFL_Wiki_9.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_9.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170411_100620
+10:21:51.664 INFO - Launching a standalone Selenium Server
+10:21:51.682 INFO - Java: Oracle Corporation 25.72-b15
+10:21:51.682 INFO - OS: Linux 4.4.0-66-generic amd64
+10:21:51.688 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+10:21:51.720 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:21:51.721 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+10:21:51.721 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+10:21:51.721 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+10:21:51.722 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+10:21:51.791 INFO - Launching Firefox...
+ ... still watching after 935 seconds ... 
+ ... still watching after 940 seconds ... 
+ ... still watching after 945 seconds ... 
+ ... still watching after 950 seconds ... 
+ ... still watching after 955 seconds ... 
+ ... still watching after 960 seconds ... 
+ ... still watching after 965 seconds ... 
+ ... still watching after 970 seconds ... 
+ ... still watching after 975 seconds ... 
+ ... still watching after 980 seconds ... 
+ ... still watching after 985 seconds ... 
+ ... still watching after 990 seconds ... 
+ ... still watching after 995 seconds ... 
+ ... still watching after 1000 seconds ... 
+ ... still watching after 1005 seconds ... 
+ ... still watching after 1010 seconds ... 
+ ... still watching after 1015 seconds ... 
+10:23:16.143 INFO - Received posted results
+XSS_REFL_Wiki_9.html
+<a href="XSS_REFL_Wiki_9.html">XSS_REFL_Wiki_9</a></td></tr>
+</tbody></table>
+
+
+
+10:23:16.317 INFO - Killing Firefox...
+Tue Apr 11 10:23:18 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170411_100620/RESULT_SUITE_XSS_REFL_Wiki_9.html done, exit
+ ... still watching after 1020 seconds ... 
+ ... still watching after 1025 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 187: kill: (25589) - No such process
+gzip: XSS_REFL_Wiki_1.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_10.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_11.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_12.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_2.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_3.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_4.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_5.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_6.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_7.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_8.html.gz already has .gz suffix -- unchanged
+gzip: XSS_REFL_Wiki_9.html.gz already has .gz suffix -- unchanged
+Tue Apr 11 10:23:30 UTC 2017 killing 21729 
+./timeout.sh: line 28: kill: (21729) - No such process
+Tue Apr 11 10:23:30 UTC 2017 done
+Tue Apr 11 10:23:30 UTC 2017,INFO::report_path=/java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_100620
+2270-127.0.0.1 - root [11/Apr/2017:10:19:06 +0000] "GET /eXoSkin/skin/css/wiki/wiki.css HTTP/1.1" 200 34306
+2271-127.0.0.1 - root [11/Apr/2017:10:19:11 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2272-127.0.0.1 - root [11/Apr/2017:10:19:11 +0000] "POST /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXcuAAt1aWNvbXBvbmVudAAAAAEAElVJV2lraVBhZ2VFZGl0Rm9ybQAHX19FT0ZfXw**&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&subComponentId=UISubmitToolBarUpper_SavePage_&objectId=SavePage HTTP/1.1" 302 -
+2273-127.0.0.1 - root [11/Apr/2017:10:19:11 +0000] "GET /portal/intranet/wiki/WikiHome HTTP/1.1" 200 78150
+2274-127.0.0.1 - root [11/Apr/2017:10:19:11 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2275:127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491905951941 HTTP/1.1" 404 1113
+2276-127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /rest/search/registry HTTP/1.1" 200 1710
+2277-127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2278-127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /rest/state/ping/ HTTP/1.1" 200 -
+2279-127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /rest/search/setting/quicksearch HTTP/1.1" 200 128
+2280-127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /portal/rest/wiki/tree/ALL?path=portal%2Fintranet%2FWikiHome HTTP/1.1" 200 287
+2281-127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /portal/intranet/wiki/WikiHome?interactionstate=JBPNS_rO0ABXc7AAJvcAAAAAEACFZpZXdQYWdlAAt1aWNvbXBvbmVudAAAAAEADVVJV2lraVBvcnRsZXQAB19fRU9GX18*&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491905952283 HTTP/1.1" 200 842
+2282:127.0.0.1 - root [11/Apr/2017:10:19:12 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491905952297 HTTP/1.1" 404 1113
+2283-127.0.0.1 - - [11/Apr/2017:10:19:27 +0000] "GET /portal/intranet/?portal:componentId=UIPortal&portal:action=Logout HTTP/1.1" 302 -
+2284-127.0.0.1 - - [11/Apr/2017:10:19:27 +0000] "GET /portal/login?initialURI=%2Fportal%2Fintranet%2F%3Fportal%3AcomponentId%3DUIPortal%26portal%3Aaction%3DLogout HTTP/1.1" 200 4899
+2285-127.0.0.1 - - [11/Apr/2017:10:19:27 +0000] "GET /eXoSkin/skin/css/platform/portlets/extensions/login.css HTTP/1.1" 200 20256
+2286-127.0.0.1 - - [11/Apr/2017:10:19:27 +0000] "GET /platform-extension/javascript/switch-button.js HTTP/1.1" 200 9972
+2287-127.0.0.1 - - [11/Apr/2017:10:19:27 +0000] "GET /platform-extension/javascript/jquery-1.7.1.js HTTP/1.1" 200 248232
+--
+2468-127.0.0.1 - root [11/Apr/2017:10:19:54 +0000] "GET /wiki/skin/DefaultSkin/webui/UIWikiRichTextEditor/RichTextArea.css HTTP/1.1" 200 6484
+2469-127.0.0.1 - root [11/Apr/2017:10:19:54 +0000] "GET /wiki/skin/DefaultSkin/webui/UIWikiRichTextEditor/Wysiwyg.css HTTP/1.1" 200 18099
+2470-127.0.0.1 - root [11/Apr/2017:10:19:54 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/sc/modules/ISC_Grids.js HTTP/1.1" 200 901111
+2471-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/xwe.nocache.js HTTP/1.1" 200 11735
+2472-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /eXoSkin/skin/images/themes/default/forum/skin/background/Point1x1.png HTTP/1.1" 200 2792
+2473:127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491905995150 HTTP/1.1" 404 1113
+2474-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /portal/scripts/4.4.0/GROUP/wikiView-min.js HTTP/1.1" 200 61387
+2475-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /portal/scripts/4.4.0/SHARED/UISpaceSwitcher-min.js HTTP/1.1" 200 6630
+2476-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/stylesheets/Wysiwyg.css HTTP/1.1" 200 61
+2477-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/5D7BB43BED7A7A16544328DAE12328E8.cache.html HTTP/1.1" 200 645422
+2478-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /rest/search/registry HTTP/1.1" 200 1710
+--
+2482-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /rest/search/setting/quicksearch HTTP/1.1" 200 128
+2483-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2484-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /portal/rest/wiki/tree/ALL?path=portal%2Fintranet%2FWikiHome HTTP/1.1" 200 287
+2485-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /eXoSkin/skin/images/themes/default/Loading/loadingProgressBar.gif HTTP/1.1" 200 3880
+2486-127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXc7AAJvcAAAAAEACFZpZXdQYWdlAAt1aWNvbXBvbmVudAAAAAEADVVJV2lraVBvcnRsZXQAB19fRU9GX18*&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491905995448 HTTP/1.1" 200 842
+2487:127.0.0.1 - root [11/Apr/2017:10:19:55 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491905995457 HTTP/1.1" 404 1113
+2488-127.0.0.1 - root [11/Apr/2017:10:19:58 +0000] "GET /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXdZAAJvcAAAAAEACEVkaXRQYWdlAAt1aWNvbXBvbmVudAAAAAEAK1VJV2lraVBhZ2VDb250cm9sQXJlYV9QYWdlVG9vbEJhcl9FZGl0UGFnZV8AB19fRU9GX18*&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491905998862 HTTP/1.1" 200 16393
+2489:127.0.0.1 - root [11/Apr/2017:10:19:58 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491905998889 HTTP/1.1" 404 1113
+2490-127.0.0.1 - root [11/Apr/2017:10:19:58 +0000] "GET /portal/scripts/4.4.0/GROUP/wikiEdit-min.js HTTP/1.1" 200 8978
+2491-127.0.0.1 - root [11/Apr/2017:10:19:58 +0000] "GET /eXoSkin/skin/images/themes/default/ShareImages/Background/uiScrollBottom.png HTTP/1.1" 200 4589
+2492-127.0.0.1 - root [11/Apr/2017:10:19:58 +0000] "GET /portal/intranet/wiki?portal:action=Ping&portal:componentId=UIPortal HTTP/1.1" 200 14
+2493-127.0.0.1 - root [11/Apr/2017:10:19:58 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2494-127.0.0.1 - root [11/Apr/2017:10:19:58 +0000] "GET /wiki/javascript/xwiki/xwikiexplorer/xwikiexplorer.js HTTP/1.1" 200 43587
+--
+2499-127.0.0.1 - root [11/Apr/2017:10:19:59 +0000] "GET /eXoSkin/skin/css/wiki/wiki.css HTTP/1.1" 200 34306
+2500-127.0.0.1 - root [11/Apr/2017:10:20:04 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2501-127.0.0.1 - root [11/Apr/2017:10:20:04 +0000] "POST /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXcuAAt1aWNvbXBvbmVudAAAAAEAElVJV2lraVBhZ2VFZGl0Rm9ybQAHX19FT0ZfXw**&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&subComponentId=UISubmitToolBarUpper_SavePage_&objectId=SavePage HTTP/1.1" 302 -
+2502-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /portal/intranet/wiki/WikiHome HTTP/1.1" 200 78152
+2503-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2504:127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906005380 HTTP/1.1" 404 1113
+2505-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /rest/search/registry HTTP/1.1" 200 1710
+2506-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /rest/state/ping/ HTTP/1.1" 200 -
+2507-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2508-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /rest/search/setting/quicksearch HTTP/1.1" 200 128
+2509-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /portal/rest/wiki/tree/ALL?path=portal%2Fintranet%2FWikiHome HTTP/1.1" 200 287
+2510-127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /portal/intranet/wiki/WikiHome?interactionstate=JBPNS_rO0ABXc7AAJvcAAAAAEACFZpZXdQYWdlAAt1aWNvbXBvbmVudAAAAAEADVVJV2lraVBvcnRsZXQAB19fRU9GX18*&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491906005733 HTTP/1.1" 200 842
+2511:127.0.0.1 - root [11/Apr/2017:10:20:05 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906005747 HTTP/1.1" 404 1113
+2512-127.0.0.1 - root [11/Apr/2017:10:20:14 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2513-127.0.0.1 - - [11/Apr/2017:10:20:14 +0000] "GET /portal/intranet/?portal:componentId=UIPortal&portal:action=Logout HTTP/1.1" 302 -
+2514-127.0.0.1 - - [11/Apr/2017:10:20:14 +0000] "GET /portal/intranet/ HTTP/1.1" 302 -
+2515-127.0.0.1 - - [11/Apr/2017:10:20:14 +0000] "GET /portal/login?initialURI=%2Fportal%2Fintranet%2F HTTP/1.1" 200 4846
+2516-127.0.0.1 - - [11/Apr/2017:10:20:14 +0000] "GET /portal/rest/platform/info HTTP/1.1" 200 420
+--
+2702-127.0.0.1 - root [11/Apr/2017:10:21:06 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2703-127.0.0.1 - root [11/Apr/2017:10:21:06 +0000] "GET /wiki/skin/DefaultSkin/webui/UIWikiRichTextEditor/RichTextArea.css HTTP/1.1" 200 6484
+2704-127.0.0.1 - root [11/Apr/2017:10:21:06 +0000] "GET /wiki/skin/DefaultSkin/webui/UIWikiRichTextEditor/Wysiwyg.css HTTP/1.1" 200 18099
+2705-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/xwe.nocache.js HTTP/1.1" 200 11735
+2706-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /eXoSkin/skin/images/themes/default/forum/skin/background/Point1x1.png HTTP/1.1" 200 2792
+2707:127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906067158 HTTP/1.1" 404 1113
+2708-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /portal/scripts/4.4.0/SHARED/UISpaceSwitcher-min.js HTTP/1.1" 200 6630
+2709-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /portal/scripts/4.4.0/GROUP/wikiView-min.js HTTP/1.1" 200 61387
+2710-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/stylesheets/Wysiwyg.css HTTP/1.1" 200 61
+2711-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/5D7BB43BED7A7A16544328DAE12328E8.cache.html HTTP/1.1" 200 645422
+2712-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /rest/search/registry HTTP/1.1" 200 1710
+--
+2716-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /eXoSkin/skin/images/themes/default/Loading/loading16x16Light.png HTTP/1.1" 200 3038
+2717-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2718-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /portal/rest/wiki/tree/ALL?path=portal%2Fintranet%2FWikiHome HTTP/1.1" 200 287
+2719-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /eXoSkin/skin/images/themes/default/Loading/loadingProgressBar.gif HTTP/1.1" 200 3880
+2720-127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXc7AAJvcAAAAAEACFZpZXdQYWdlAAt1aWNvbXBvbmVudAAAAAEADVVJV2lraVBvcnRsZXQAB19fRU9GX18*&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491906067443 HTTP/1.1" 200 842
+2721:127.0.0.1 - root [11/Apr/2017:10:21:07 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906067456 HTTP/1.1" 404 1113
+2722-127.0.0.1 - root [11/Apr/2017:10:21:14 +0000] "GET /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXd0AAJvcAAAAAEAE0FkZFBhZ2VGcm9tVGVtcGxhdGUAC3VpY29tcG9uZW50AAAAAQA7VUlXaWtpUGFnZUNvbnRyb2xBcmVhX1BhZ2VUb29sQmFyX0FkZF9fQWRkUGFnZUZyb21UZW1wbGF0ZV8AB19fRU9GX18*&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491906074824 HTTP/1.1" 200 11012
+2723-127.0.0.1 - - [11/Apr/2017:10:22:03 +0000] "GET /portal/intranet/?portal:componentId=UIPortal&portal:action=Logout HTTP/1.1" 302 -
+2724-127.0.0.1 - - [11/Apr/2017:10:22:03 +0000] "GET /portal/login?initialURI=%2Fportal%2Fintranet%2F%3Fportal%3AcomponentId%3DUIPortal%26portal%3Aaction%3DLogout HTTP/1.1" 200 4899
+2725-127.0.0.1 - - [11/Apr/2017:10:22:03 +0000] "GET /eXoSkin/skin/css/platform/portlets/extensions/login.css HTTP/1.1" 200 20256
+2726-127.0.0.1 - - [11/Apr/2017:10:22:03 +0000] "GET /platform-extension/javascript/switch-button.js HTTP/1.1" 200 9972
+--
+2908-127.0.0.1 - root [11/Apr/2017:10:22:30 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2909-127.0.0.1 - root [11/Apr/2017:10:22:30 +0000] "GET /wiki/skin/DefaultSkin/webui/UIWikiRichTextEditor/RichTextArea.css HTTP/1.1" 200 6484
+2910-127.0.0.1 - root [11/Apr/2017:10:22:30 +0000] "GET /wiki/skin/DefaultSkin/webui/UIWikiRichTextEditor/Wysiwyg.css HTTP/1.1" 200 18099
+2911-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/xwe.nocache.js HTTP/1.1" 200 11735
+2912-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /eXoSkin/skin/images/themes/default/forum/skin/background/Point1x1.png HTTP/1.1" 200 2792
+2913:127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906151118 HTTP/1.1" 404 1113
+2914-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /portal/scripts/4.4.0/GROUP/wikiView-min.js HTTP/1.1" 200 61387
+2915-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /portal/scripts/4.4.0/SHARED/UISpaceSwitcher-min.js HTTP/1.1" 200 6630
+2916-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/stylesheets/Wysiwyg.css HTTP/1.1" 200 61
+2917-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /wiki/resources/js/xwiki/wysiwyg/xwe/5D7BB43BED7A7A16544328DAE12328E8.cache.html HTTP/1.1" 200 645422
+2918-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /rest/search/registry HTTP/1.1" 200 1710
+--
+2922-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /rest/search/setting/quicksearch HTTP/1.1" 200 128
+2923-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /eXoSkin/skin/images/themes/default/Loading/loading16x16Light.png HTTP/1.1" 200 3038
+2924-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /eXoSkin/skin/images/themes/default/Loading/loadingProgressBar.gif HTTP/1.1" 200 3880
+2925-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /portal/rest/wiki/tree/ALL?path=portal%2Fintranet%2FWikiHome HTTP/1.1" 200 287
+2926-127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXc7AAJvcAAAAAEACFZpZXdQYWdlAAt1aWNvbXBvbmVudAAAAAEADVVJV2lraVBvcnRsZXQAB19fRU9GX18*&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491906151408 HTTP/1.1" 200 842
+2927:127.0.0.1 - root [11/Apr/2017:10:22:31 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906151421 HTTP/1.1" 404 1113
+2928-127.0.0.1 - root [11/Apr/2017:10:22:36 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2929-127.0.0.1 - root [11/Apr/2017:10:22:36 +0000] "GET /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXdVAAJvcAAAAAEADFNwYWNlU2V0dGluZwALdWljb21wb25lbnQAAAABACNVSVdpa2lUb29sQmFyX0Jyb3dzZV9fU3BhY2VTZXR0aW5nXwAHX19FT0ZfXw**&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491906156824 HTTP/1.1" 200 27219
+2930:127.0.0.1 - root [11/Apr/2017:10:22:36 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906156851 HTTP/1.1" 404 1113
+2931-127.0.0.1 - root [11/Apr/2017:10:22:40 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2932-127.0.0.1 - root [11/Apr/2017:10:22:40 +0000] "POST /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXdDAAt1aWNvbXBvbmVudAAAAAEAJ1VJV2lraVNldHRpbmdDb250YWluZXJfVGVtcGxhdGVTZXR0aW5nXwAHX19FT0ZfXw**&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&subComponentId=UIWikiSettingContainer_TemplateSetting_&objectId=Two-Column_Layout&ajaxRequest=true HTTP/1.1" 200 18248
+2933:127.0.0.1 - root [11/Apr/2017:10:22:40 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906160855 HTTP/1.1" 404 1113
+2934-127.0.0.1 - root [11/Apr/2017:10:22:40 +0000] "GET /portal/scripts/4.4.0/GROUP/wikiEdit-min.js HTTP/1.1" 200 8978
+2935-127.0.0.1 - root [11/Apr/2017:10:22:40 +0000] "GET /eXoSkin/skin/images/themes/default/ShareImages/Background/uiScrollBottom.png HTTP/1.1" 200 4589
+2936-127.0.0.1 - root [11/Apr/2017:10:22:40 +0000] "GET /portal/intranet/wiki?portal:action=Ping&portal:componentId=UIPortal HTTP/1.1" 200 14
+2937-127.0.0.1 - root [11/Apr/2017:10:22:53 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2938-127.0.0.1 - root [11/Apr/2017:10:22:53 +0000] "POST /portal/intranet/wiki?interactionstate=JBPNS_rO0ABXcuAAt1aWNvbXBvbmVudAAAAAEAElVJV2lraVBhZ2VFZGl0Rm9ybQAHX19FT0ZfXw**&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&subComponentId=UISubmitToolBarUpper_SaveTemplate_&objectId=SaveTemplate HTTP/1.1" 302 -
+2939-127.0.0.1 - root [11/Apr/2017:10:22:53 +0000] "GET /portal/intranet/wiki/WikiHome HTTP/1.1" 200 77457
+2940:127.0.0.1 - root [11/Apr/2017:10:22:54 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906174275 HTTP/1.1" 404 1113
+2941-127.0.0.1 - root [11/Apr/2017:10:22:54 +0000] "GET /portal/favicon.ico HTTP/1.1" 200 3030
+2942-127.0.0.1 - root [11/Apr/2017:10:22:54 +0000] "GET /rest/search/registry HTTP/1.1" 200 1710
+2943-127.0.0.1 - root [11/Apr/2017:10:22:54 +0000] "GET /rest/state/ping/ HTTP/1.1" 200 -
+2944-127.0.0.1 - root [11/Apr/2017:10:22:54 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2945-127.0.0.1 - root [11/Apr/2017:10:22:54 +0000] "GET /portal/intranet/wiki/WikiHome?portal:action=Ping&portal:componentId=UIPortal HTTP/1.1" 200 14
+2946-127.0.0.1 - root [11/Apr/2017:10:22:54 +0000] "GET /rest/search/setting/quicksearch HTTP/1.1" 200 128
+2947-127.0.0.1 - root [11/Apr/2017:10:22:59 +0000] "POST /portal/intranet/wiki/WikiHome?interactionstate=JBPNS_rO0ABXcuAAt1aWNvbXBvbmVudAAAAAEAElVJV2lraVBhZ2VFZGl0Rm9ybQAHX19FT0ZfXw**&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&subComponentId=UIEditorTabs_PreviewPage_&objectId=PreviewPage&ajaxRequest=true HTTP/1.1" 200 5606
+2948-127.0.0.1 - root [11/Apr/2017:10:22:59 +0000] "GET /wiki/javascript/xwiki/xwiki.js?_=1491906179967 HTTP/1.1" 200 60919
+2949-127.0.0.1 - root [11/Apr/2017:10:23:05 +0000] "GET /portal/intranet/wiki/WikiHome?interactionstate=JBPNS_rO0ABXc8AAJvcAAAAAEABUNsb3NlAAt1aWNvbXBvbmVudAAAAAEAEVVJV2lraVBhZ2VQcmV2aWV3AAdfX0VPRl9f&portal:componentId=9e61c512-ab84-48ba-bcfc-3546acd7f0d1&portal:type=action&ajaxRequest=true&_=1491906185848 HTTP/1.1" 200 20225
+2950:127.0.0.1 - root [11/Apr/2017:10:23:06 +0000] "GET /eXoPlatformResources/skin/platformSkin/UIToolbarContainer/background/HomeIcon.png?MSG_CODE=6006&startTime=1491906185962 HTTP/1.1" 404 1113
+2951-127.0.0.1 - root [11/Apr/2017:10:23:13 +0000] "GET /cometd/cometd HTTP/1.1" 101 -
+2952-127.0.0.1 - - [11/Apr/2017:10:23:14 +0000] "GET /portal/intranet/?portal:componentId=UIPortal&portal:action=Logout HTTP/1.1" 302 -
+2953-127.0.0.1 - - [11/Apr/2017:10:23:14 +0000] "GET /portal/intranet/ HTTP/1.1" 302 -
+2954-127.0.0.1 - - [11/Apr/2017:10:23:14 +0000] "GET /portal/login?initialURI=%2Fportal%2Fintranet%2F HTTP/1.1" 200 4846
+2955-127.0.0.1 - - [11/Apr/2017:10:23:14 +0000] "GET /portal/rest/platform/info HTTP/1.1" 200 420
+/java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_100620 /java/exo-working/automation_xss_tc/testsuite
+mv: cannot move ‘details’ to a subdirectory of itself, ‘details/details’
+/java/exo-working/automation_xss_tc/testsuite
+Local report storage: /java/exo-working/automation_xss_tc_new/plf/TESTS/test_results_170411_100620
+The test report should be uploaded to: https://qaf-reports.exoplatform.org/archives/jmeter/results/listdir.php?path=../results/SECURITY_AUTOMATION_REPORT/SAMPLE_TEST_WITH_PLF43/test_results_170411_100620_WIKI____12_TOTAL__2_FAILED
+/java/exo-working/automation_xss_tc_new/testsuite/latestresult
+success
+/java/exo-working/automation_xss_tc/testsuite /java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Tue Apr 11 10:23:30 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   24G  180G  12% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   24G  180G  12% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Tue Apr 11 10:23:30 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955      13324       2630        999       1232       3140
+-/+ buffers/cache:       8951       7004
+Swap:        15623         16      15607
+Tue Apr 11 10:23:30 UTC 2017 INFO:: users login
+Tue Apr 11 10:23:30 UTC 2017 INFO:: uptime
+ 10:23:30 up 1 day,  1:55,  0 users,  load average: 1.72, 1.04, 1.23
+ -----------------------------------------------------------------------------------------
+STAGE=COUNT_DOWN_TEST, RESET_CODE=
+ ++ loadfirstconfigline_to_testplan_current_testconfig
+firstline= /java/exo-working/TC/current/ RE_USE!WIKI 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh, RESET_CODE=
+ -- loadfirstconfigline_to_testplan_current_testconfig = [ /java/exo-working/TC/current/ RE_USE!WIKI 3600 SAMPLE_TEST_WITH_PLF43 SHOULD_WORK!eXoPLF.install.sh] 
+last_status=0
+ ++ load_testplan_current_testconfig
+ -- load_testplan_current_testconfig
+ ++ trimfirstline
+./jmeter-utils-testcontroller.sh: line 173: enable_readwrite_mode_for_config_file: command not found
+ -- trimfirstline
+success
+Process leaked file descriptors. See http://wiki.jenkins-ci.org/display/JENKINS/Spawning+processes+from+build for more information
+Archiving artifacts
+[description-setter] Could not determine description.
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+[8mha:AAAArx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzZEgZl/az8JP0Q1+CQ+DDPIHf/+HgDi/jSgpz8xBTdotSC/KKSYn0ApnMbmdgAAAA=[0mTEST_VIRGO__08_upload-reports is disabled. Triggering skipped
+Triggering a new build of [8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDy/gAx6Bg13hHZ2fX4OB4H393fQDtSX8E2gAAAA==[0mTEST_VIRGO__09_PARSE_ACCESS_LOG
+Finished: SUCCESS

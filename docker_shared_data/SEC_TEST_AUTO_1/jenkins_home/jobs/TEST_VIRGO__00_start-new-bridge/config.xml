@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <jenkins.model.BuildDiscarderProperty>
+      <strategy class="hudson.tasks.LogRotator">
+        <daysToKeep>30</daysToKeep>
+        <numToKeep>100</numToKeep>
+        <artifactDaysToKeep>-1</artifactDaysToKeep>
+        <artifactNumToKeep>-1</artifactNumToKeep>
+      </strategy>
+    </jenkins.model.BuildDiscarderProperty>
+    <hudson.model.ParametersDefinitionProperty>
+      <parameterDefinitions>
+        <hudson.model.StringParameterDefinition>
+          <name>STAGE</name>
+          <description></description>
+          <defaultValue>STOP_TEST</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>TESTSCRIPT</name>
+          <description></description>
+          <defaultValue>TEST_VIRGO</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>RESET_CODE</name>
+          <description>remove existing dataset and extract from the dataset archive</description>
+          <defaultValue>NO_RESET_CODE</defaultValue>
+        </hudson.model.StringParameterDefinition>
+        <hudson.model.StringParameterDefinition>
+          <name>QUICK_BUILD_FLOW</name>
+          <description></description>
+          <defaultValue>NO_QUICK_BUILD_FLOW</defaultValue>
+        </hudson.model.StringParameterDefinition>
+      </parameterDefinitions>
+    </hudson.model.ParametersDefinitionProperty>
+  </properties>
+  <scm class="hudson.scm.NullSCM"/>
+  <assignedNode>XSS-AUTO-1</assignedNode>
+  <canRoam>false</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <hudson.tasks.Shell>
+      <command>#!/bin/bash
+
+pushd ${EXO_WORKING_DIR}/automation_xss_tc/testsuite 
+
+if [ ! &quot;${QUICK_BUILD_FLOW}&quot; == &quot;NO_QUICK_BUILD_FLOW&quot; ]; then
+    echo &quot;${QUICK_BUILD_FLOW}&quot;&gt;&gt;${TESTSCRIPT}_CURRENT_CONFIG
+    echo &quot; ... the system will run a quick build flow with QUICK_BUILD_FLOW=${QUICK_BUILD_FLOW} ... &quot;
+fi
+
+echo &quot; ... +++ CURRENT CONFIG FILE:: +++ ....&quot;
+cat ${TESTSCRIPT}_CURRENT_CONFIG
+echo &quot;&quot;
+echo &quot; ... --- CURRENT CONFIG FILE:: --- ....&quot;
+
+pushd ${EXO_WORKING_DIR}/automation_xss_tc/testsuite &amp;&amp; bash ./jmeter-utils-testcontroller.sh ${STAGE} ${TESTSCRIPT} ${RESET_CODE}
+grep &quot;success&quot; ${TESTSCRIPT}_testresult.log;
+last_code=$?;
+if [ ! ${last_code} -eq &quot;0&quot; ]; then
+   a=$((1/0))
+fi</command>
+    </hudson.tasks.Shell>
+  </builders>
+  <publishers>
+    <hudson.tasks.BuildTrigger>
+      <childProjects>TEST_VIRGO__01_stop-previous</childProjects>
+      <threshold>
+        <name>SUCCESS</name>
+        <ordinal>0</ordinal>
+        <color>BLUE</color>
+        <completeBuild>true</completeBuild>
+      </threshold>
+    </hudson.tasks.BuildTrigger>
+    <hudson.plugins.descriptionsetter.DescriptionSetterPublisher plugin="description-setter@1.10">
+      <regexp>firstline=([^ \t]+) ([^ \t]+)!([^ \t]+) ([^ \t]+) ([^ \t]+) ([^ \t]+)!([^ \t]+)</regexp>
+      <regexpForFailed></regexpForFailed>
+      <description>\5 -&gt; \3 (\6 \4)</description>
+      <setForMatrix>false</setForMatrix>
+    </hudson.plugins.descriptionsetter.DescriptionSetterPublisher>
+  </publishers>
+  <buildWrappers>
+    <hudson.plugins.build__timeout.BuildTimeoutWrapper plugin="build-timeout@1.16">
+      <strategy class="hudson.plugins.build_timeout.impl.AbsoluteTimeOutStrategy">
+        <timeoutMinutes>5</timeoutMinutes>
+      </strategy>
+      <operationList>
+        <hudson.plugins.build__timeout.operations.FailOperation/>
+      </operationList>
+    </hudson.plugins.build__timeout.BuildTimeoutWrapper>
+    <hudson.plugins.timestamper.TimestamperBuildWrapper plugin="timestamper@1.7.4"/>
+  </buildWrappers>
+</project>

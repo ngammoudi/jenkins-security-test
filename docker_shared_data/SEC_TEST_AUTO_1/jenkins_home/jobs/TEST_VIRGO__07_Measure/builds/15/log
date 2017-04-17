@@ -1,0 +1,508 @@
+Started by upstream project "[8mha:AAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgY5/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9ACKzoz7TAAAA[0mTEST_VIRGO__05_start-new" build number [8mha:AAAArB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYF/az8JP0Q1+CQ+DDPIHf/+HgD0/jiksSiEt281HJ9I0MAfEE6A9UAAAA=[0m21
+originally caused by:
+ Started by upstream project "[8mha:AAAAth+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYt/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9AG5K4jvfAAAA[0mTEST_VIRGO__CleanPreviousApplication" build number [8mha:AAAAuB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYd/az8JP0Q1+CQ+DDPIHf/+HjnnNTEvICi1LLM/NJix4KCnMzkxJLM/Dx9I0MAl4bLueEAAAA=[0m21
+ originally caused by:
+  Started by upstream project "[8mha:AAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifQAB5Hpr1wAAAA==[0mTEST_VIRGO__01_stop-previous" build number [8mha:AAAAsB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYV/az8JP0Q1+CQ+DDPIHf/+HgDw/jikvwC3YKi1LLM/NJifSNDAD+nJCzZAAAA[0m21
+  originally caused by:
+   Started by upstream project "[8mha:AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz5EgZV/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfQDQnXCM2gAAAA==[0mTEST_VIRGO__00_start-new-bridge" build number [8mha:AAAAsx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ1/az8JP0Q1+CQ+DDPIHf/+HgDg/jiksSiEt281HLdpKLMlPRUfSNDAJYuMQjcAAAA[0m21
+   originally caused by:
+    Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+[workspace] $ /bin/bash /tmp/hudson4440937509306723835.sh
+:99
+/java/exo-working/automation_xss_tc/testsuite /var/jenkins_home/jobs/TEST_VIRGO__07_Measure/workspace
+--== remove test result file ==--
+--== create empty test result file ==--
+ ---------------------------------- SYSTEM INFORMATION ---------------------------------- 
+Mon Apr 17 08:14:34 UTC 2017 INFO:: Disk free information
+Filesystem      Size  Used Avail Use% Mounted on
+none            215G   26G  179G  13% /
+tmpfs           7.8G     0  7.8G   0% /dev
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/sda5       215G   26G  179G  13% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           7.8G     0  7.8G   0% /sys/firmware
+Mon Apr 17 08:14:34 UTC 2017 INFO:: Memory free information
+             total       used       free     shared    buffers     cached
+Mem:         15955      15291        664       1155       1288       4165
+-/+ buffers/cache:       9836       6118
+Swap:        15623          0      15623
+Mon Apr 17 08:14:34 UTC 2017 INFO:: users login
+Mon Apr 17 08:14:34 UTC 2017 INFO:: uptime
+ 08:14:34 up 2 days, 23:23,  0 users,  load average: 1.68, 0.78, 0.47
+ -----------------------------------------------------------------------------------------
+STAGE=SECURITY_TEST, RESET_CODE=
+ ++ loadfirstconfigline_to_testplan_current_testconfig
+firstline=/java/exo-working/TC/current/ RE_USE/java/exo-working/PLF44.W45.zip!ECMS 36000 PLF44x20161108_RDBMS PATTERN1 1!eXoPLF.install.sh, RESET_CODE=
+ -- loadfirstconfigline_to_testplan_current_testconfig = [/java/exo-working/TC/current/ RE_USE/java/exo-working/PLF44.W45.zip!ECMS 36000 PLF44x20161108_RDBMS PATTERN1 1!eXoPLF.install.sh] 
+last_status=0
+ ++ load_testplan_current_testconfig
+ -- load_testplan_current_testconfig
+arguments=600:/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh ECMS
+nohup /java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh ECMS
+Mon Apr 17 08:14:34 UTC 2017 command_id=29184
+Mon Apr 17 08:14:34 UTC 2017 watching for 36000 seconds to kill 29184
+ ... still watching after 0 seconds ... 
+Mon Apr 17 08:14:34 UTC 2017, going to run test on module: ECMS
+cp: cannot stat ‘/java/exo-working/automation_xss_tc/plf//COMMON/*.jar’: No such file or directory
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170417_081434 /java/exo-working/automation_xss_tc/testsuite
+Mon Apr 17 08:14:36 UTC 2017,INFO:: build test suites and test result table
+Mon Apr 17 08:14:36 UTC 2017,INFO:: doing pretests
+Mon Apr 17 08:14:36 UTC 2017, INFO:: testscript=COMM_pretest.html 
+08:14:36.701 INFO - Launching a standalone Selenium Server
+08:14:36.717 INFO - Java: Oracle Corporation 25.72-b15
+08:14:36.717 INFO - OS: Linux 4.4.0-66-generic amd64
+08:14:36.723 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+08:14:36.756 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+08:14:36.756 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+08:14:36.756 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+08:14:36.756 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+08:14:36.758 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+08:14:36.823 INFO - Launching Firefox...
+ ... still watching after 5 seconds ... 
+ ... still watching after 10 seconds ... 
+ ... still watching after 15 seconds ... 
+ ... still watching after 20 seconds ... 
+ ... still watching after 25 seconds ... 
+ ... still watching after 30 seconds ... 
+ ... still watching after 35 seconds ... 
+ ... still watching after 40 seconds ... 
+ ... still watching after 45 seconds ... 
+ ... still watching after 50 seconds ... 
+ ... still watching after 55 seconds ... 
+ ... still watching after 60 seconds ... 
+ ... still watching after 65 seconds ... 
+ ... still watching after 70 seconds ... 
+ ... still watching after 75 seconds ... 
+ ... still watching after 80 seconds ... 
+ ... still watching after 85 seconds ... 
+ ... still watching after 90 seconds ... 
+ ... still watching after 95 seconds ... 
+ ... still watching after 100 seconds ... 
+ ... still watching after 105 seconds ... 
+ ... still watching after 110 seconds ... 
+ ... still watching after 115 seconds ... 
+08:16:33.539 INFO - Received posted results
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+</tbody></table>
+
+
+
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_passed"><td>
+COMM_pretest.html
+<a href="COMM_pretest.html">COMM_pretest</a></td></tr>
+<tr class="  status_passed"><td>
+08:16:33.855 INFO - Killing Firefox...
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_1.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_10.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_100.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_101.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_102.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_103.html 
+ ... still watching after 120 seconds ... 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_104.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_105.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_106.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_107.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_108.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_109.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_11.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_110.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_111.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_112.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_113.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_114.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_115.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_116.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_117.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_118.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_12.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_13.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_14.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_15.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_16.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_17.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_18.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_19.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_2.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_20.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_21.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_22.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_23.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_24.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_25.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_26.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_27.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_28.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_29.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_3.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_30.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_31.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_32.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_33.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_34.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_35.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_36.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_37.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_38.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_39.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_4.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_40.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_41.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_42.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_43.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_44.html 
+Mon Apr 17 08:16:34 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_45.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_46.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_47.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_48.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_49.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_5.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_50.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_51.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_52.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_53.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_54.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_55.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_56.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_57.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_58.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_59.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_6.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_60.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_61.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_62.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_63.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_64.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_65.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_66.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_67.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_68.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_69.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_7.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_70.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_71.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_72.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_73.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_74.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_75.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_76.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_77.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_78.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_79.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_8.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_80.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_81.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_82.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_83.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_84.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_85.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_86.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_87.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_88.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_89.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_9.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_90.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_91.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_92.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_93.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_94.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_95.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_96.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_97.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_98.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_CON_99.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_1.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_10.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_11.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_12.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_13.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_14.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_15.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_16.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_17.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_18.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_19.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_2.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_20.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_21.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_22.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_23.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_24.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_25.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_26.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_27.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_28.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_29.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_3.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_30.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_31.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_4.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_5.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_6.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_7.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_8.html 
+Mon Apr 17 08:16:35 UTC 2017, INFO:: testscript=XSS_REFL_ECMS_DOC_9.html 
+Mon Apr 17 08:16:35 UTC 2017,INFO:: start testing
+Mon Apr 17 08:16:35 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_1.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_1.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170417_081434
+08:16:36.034 INFO - Launching a standalone Selenium Server
+08:16:36.050 INFO - Java: Oracle Corporation 25.72-b15
+08:16:36.051 INFO - OS: Linux 4.4.0-66-generic amd64
+08:16:36.057 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+08:16:36.090 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+08:16:36.090 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+08:16:36.090 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+08:16:36.090 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+08:16:36.091 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+08:16:36.152 INFO - Launching Firefox...
+ ... still watching after 125 seconds ... 
+ ... still watching after 130 seconds ... 
+ ... still watching after 135 seconds ... 
+ ... still watching after 140 seconds ... 
+ ... still watching after 145 seconds ... 
+ ... still watching after 150 seconds ... 
+ ... still watching after 155 seconds ... 
+ ... still watching after 160 seconds ... 
+ ... still watching after 165 seconds ... 
+ ... still watching after 170 seconds ... 
+ ... still watching after 175 seconds ... 
+ ... still watching after 180 seconds ... 
+ ... still watching after 185 seconds ... 
+ ... still watching after 190 seconds ... 
+ ... still watching after 195 seconds ... 
+ ... still watching after 200 seconds ... 
+08:17:56.740 INFO - Received posted results
+XSS_REFL_ECMS_CON_1.html
+<a href="XSS_REFL_ECMS_CON_1.html">XSS_REFL_ECMS_CON_1</a></td></tr>
+</tbody></table>
+
+
+
+08:17:57.176 INFO - Killing Firefox...
+ ... still watching after 205 seconds ... 
+Mon Apr 17 08:17:59 UTC 2017, the report /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_1.html done, exit
+ ... still watching after 210 seconds ... 
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 193: kill: (30947) - No such process
+Mon Apr 17 08:18:07 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_10.html 
+/java/exo-working/automation_xss_tc/plf/TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_10.html_log /java/exo-working/automation_xss_tc/plf/TESTS/test_results_170417_081434
+08:18:07.637 INFO - Launching a standalone Selenium Server
+08:18:07.661 INFO - Java: Oracle Corporation 25.72-b15
+08:18:07.661 INFO - OS: Linux 4.4.0-66-generic amd64
+08:18:07.670 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+08:18:07.704 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform LINUX
+08:18:07.705 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform LINUX
+08:18:07.705 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+08:18:07.705 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+08:18:07.706 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform LINUX
+jar:file:/java/exo-working/selenium-server-standalone-2.52.0.jar!/customProfileDirCUSTFFCHROME
+08:18:07.768 INFO - Launching Firefox...
+ ... still watching after 215 seconds ... 
+ ... still watching after 220 seconds ... 
+ ... still watching after 225 seconds ... 
+ ... still watching after 230 seconds ... 
+ ... still watching after 235 seconds ... 
+ ... still watching after 240 seconds ... 
+ ... still watching after 245 seconds ... 
+ ... still watching after 250 seconds ... 
+ ... still watching after 255 seconds ... 
+ ... still watching after 260 seconds ... 
+ ... still watching after 265 seconds ... 
+ ... still watching after 270 seconds ... 
+08:19:07.924 INFO - Received posted results
+XSS_REFL_ECMS_CON_10.html
+<a href="XSS_REFL_ECMS_CON_10.html">XSS_REFL_ECMS_CON_10</a></td></tr>
+</tbody></table>
+
+
+
+import: unable to open image `./screen_0417_081908.png': No such file or directory @ error/blob.c/OpenBlob/2709.
+import: WriteBlob Failed `./screen_0417_081908.png' @ error/png.c/MagickPNGErrorHandler/1645.
+grep: /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_10.html: No such file or directory
+../../COMMON/automation_xss_take_screen_shot.sh: line 22: [: -gt: unary operator expected
+08:19:08.288 INFO - Killing Firefox...
+HTML suite exception seen:
+java.io.FileNotFoundException: ./RESULT_SUITE_XSS_REFL_ECMS_CON_10.html (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at org.openqa.selenium.server.htmlrunner.HTMLLauncher.getFileWriter(HTMLLauncher.java:91)
+	at org.openqa.selenium.server.htmlrunner.HTMLLauncher.writeResults(HTMLLauncher.java:96)
+	at org.openqa.selenium.server.htmlrunner.HTMLLauncher.runHTMLSuite(HTMLLauncher.java:158)
+	at org.openqa.selenium.server.htmlrunner.HTMLLauncher.runHTMLSuite(HTMLLauncher.java:198)
+	at org.openqa.selenium.server.SeleniumServer.runHtmlSuite(SeleniumServer.java:697)
+	at org.openqa.selenium.server.SeleniumServer.boot(SeleniumServer.java:326)
+	at org.openqa.selenium.server.SeleniumServer.main(SeleniumServer.java:240)
+	at org.openqa.grid.selenium.GridLauncher$1.launch(GridLauncher.java:58)
+	at org.openqa.grid.selenium.GridLauncher.main(GridLauncher.java:127)
+sed: can't read RESULT_SUITE_XSS_REFL_ECMS_CON_10.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_10.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_10.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+gzip: XSS_REFL_ECMS_CON_10.html: No such file or directory
+ ... still watching after 275 seconds ... 
+import: unable to open image `./screen_0417_081911.png': No such file or directory @ error/blob.c/OpenBlob/2709.
+import: WriteBlob Failed `./screen_0417_081911.png' @ error/png.c/MagickPNGErrorHandler/1645.
+grep: /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_10.html: No such file or directory
+../../COMMON/automation_xss_take_screen_shot.sh: line 22: [: -gt: unary operator expected
+import: unable to open image `./screen_0417_081914.png': No such file or directory @ error/blob.c/OpenBlob/2709.
+import: WriteBlob Failed `./screen_0417_081914.png' @ error/png.c/MagickPNGErrorHandler/1645.
+grep: /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_10.html: No such file or directory
+../../COMMON/automation_xss_take_screen_shot.sh: line 22: [: -gt: unary operator expected
+ ... still watching after 280 seconds ... 
+import: unable to open image `./screen_0417_081917.png': No such file or directory @ error/blob.c/OpenBlob/2709.
+import: WriteBlob Failed `./screen_0417_081917.png' @ error/png.c/MagickPNGErrorHandler/1645.
+grep: /java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_10.html: No such file or directory
+../../COMMON/automation_xss_take_screen_shot.sh: line 22: [: -gt: unary operator expected
+Mon Apr 17 08:19:18 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_100.html 
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+mkdir: cannot create directory ‘/java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_100.html_log’: No such file or directory
+pushd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Error occurred during initialization of VM
+java.lang.Error: Properties init: Could not determine current working directory.
+	at java.lang.System.initProperties(Native Method)
+	at java.lang.System.initializeSystemClass(System.java:1166)
+
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 133: 31372 Killed                  nohup ../../COMMON/automation_xss_take_screen_shot.sh ${test_result_dir}/RESULT_${testsuite} $$ 5
+sed: can't read RESULT_SUITE_XSS_REFL_ECMS_CON_100.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_100.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_100.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+gzip: XSS_REFL_ECMS_CON_100.html: No such file or directory
+ ... still watching after 285 seconds ... 
+ ... still watching after 290 seconds ... 
+Mon Apr 17 08:19:28 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_101.html 
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+mkdir: cannot create directory ‘/java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_101.html_log’: No such file or directory
+pushd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Error occurred during initialization of VM
+java.lang.Error: Properties init: Could not determine current working directory.
+	at java.lang.System.initProperties(Native Method)
+	at java.lang.System.initializeSystemClass(System.java:1166)
+
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 133: 31683 Killed                  nohup ../../COMMON/automation_xss_take_screen_shot.sh ${test_result_dir}/RESULT_${testsuite} $$ 5
+sed: can't read RESULT_SUITE_XSS_REFL_ECMS_CON_101.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_101.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_101.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+gzip: XSS_REFL_ECMS_CON_101.html: No such file or directory
+ ... still watching after 295 seconds ... 
+ ... still watching after 300 seconds ... 
+Mon Apr 17 08:19:38 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_102.html 
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+mkdir: cannot create directory ‘/java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_102.html_log’: No such file or directory
+pushd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Error occurred during initialization of VM
+java.lang.Error: Properties init: Could not determine current working directory.
+	at java.lang.System.initProperties(Native Method)
+	at java.lang.System.initializeSystemClass(System.java:1166)
+
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 133: 31727 Killed                  nohup ../../COMMON/automation_xss_take_screen_shot.sh ${test_result_dir}/RESULT_${testsuite} $$ 5
+sed: can't read RESULT_SUITE_XSS_REFL_ECMS_CON_102.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_102.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_102.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+gzip: XSS_REFL_ECMS_CON_102.html: No such file or directory
+ ... still watching after 305 seconds ... 
+ ... still watching after 310 seconds ... 
+Mon Apr 17 08:19:48 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_103.html 
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+mkdir: cannot create directory ‘/java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_103.html_log’: No such file or directory
+pushd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Error occurred during initialization of VM
+java.lang.Error: Properties init: Could not determine current working directory.
+	at java.lang.System.initProperties(Native Method)
+	at java.lang.System.initializeSystemClass(System.java:1166)
+
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 133: 31777 Killed                  nohup ../../COMMON/automation_xss_take_screen_shot.sh ${test_result_dir}/RESULT_${testsuite} $$ 5
+sed: can't read RESULT_SUITE_XSS_REFL_ECMS_CON_103.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_103.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_103.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+gzip: XSS_REFL_ECMS_CON_103.html: No such file or directory
+ ... still watching after 315 seconds ... 
+ ... still watching after 320 seconds ... 
+Mon Apr 17 08:19:58 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_104.html 
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+mkdir: cannot create directory ‘/java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_104.html_log’: No such file or directory
+pushd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Error occurred during initialization of VM
+java.lang.Error: Properties init: Could not determine current working directory.
+	at java.lang.System.initProperties(Native Method)
+	at java.lang.System.initializeSystemClass(System.java:1166)
+
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 133: 31822 Killed                  nohup ../../COMMON/automation_xss_take_screen_shot.sh ${test_result_dir}/RESULT_${testsuite} $$ 5
+sed: can't read RESULT_SUITE_XSS_REFL_ECMS_CON_104.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_104.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_104.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+gzip: XSS_REFL_ECMS_CON_104.html: No such file or directory
+ ... still watching after 325 seconds ... 
+ ... still watching after 330 seconds ... 
+Mon Apr 17 08:20:09 UTC 2017, >>> processing SUITE_XSS_REFL_ECMS_CON_105.html 
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+mkdir: cannot create directory ‘/java/exo-working/automation_xss_tc/plf//TESTS/test_results_170417_081434/RESULT_SUITE_XSS_REFL_ECMS_CON_105.html_log’: No such file or directory
+pushd: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Error occurred during initialization of VM
+java.lang.Error: Properties init: Could not determine current working directory.
+	at java.lang.System.initProperties(Native Method)
+	at java.lang.System.initializeSystemClass(System.java:1166)
+
+/java/exo-working/automation_xss_tc_new/plf/COMMON/automation_xss_confirm_scripts.sh: line 133: 31866 Killed                  nohup ../../COMMON/automation_xss_take_screen_shot.sh ${test_result_dir}/RESULT_${testsuite} $$ 5
+sed: can't read RESULT_SUITE_XSS_REFL_ECMS_CON_105.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_105.html: No such file or directory
+grep: ./RESULT_SUITE_XSS_REFL_ECMS_CON_105.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+sed: can't read TEST_RESULT_REPORT_170417_081434.html: No such file or directory
+gzip: XSS_REFL_ECMS_CON_105.html: No such file or directory
+ ... still watching after 335 seconds ... 
+ ... still watching after 340 seconds ... 
+Build was aborted
+Aborted by [8mha:AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9xLz8vMrc/NJiAJjzDjjEAAAA[0manonymous
+Archiving artifacts
+[description-setter] Could not determine description.
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Finished: ABORTED
