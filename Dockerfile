@@ -3,7 +3,7 @@
 
 FROM java:8-jdk
 
-RUN apt-get update && apt-get install -y vim xvfb fluxbox x11vnc wget git curl zip apt-utils imagemagick graphviz lbzip2 libgtk-3-0 
+RUN apt-get update && apt-get install -y vim xvfb fluxbox x11vnc wget git curl zip apt-utils imagemagick graphviz lbzip2 libgtk-3-0 libssl-dev openssl python-pip && pip install pyopenssl 
 
 #RUN debconf-set-selections <<< 'mysql-server mysql-server/root_password password exo'
 #RUN debconf-set-selections <<< 'mysql-server mysql-server/root_password_again password exo'
