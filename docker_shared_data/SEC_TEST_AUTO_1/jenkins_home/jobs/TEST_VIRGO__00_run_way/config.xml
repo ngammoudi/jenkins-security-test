@@ -54,10 +54,10 @@ EXO_WORKING_DIR=/java/exo-working
 if [ -d $EXO_WORKING_DIR ]; then
   pushd $EXO_WORKING_DIR
   
-  if [ ! -d automation_xss_tc_new ]; then
-    echo &quot;INFO: downloading automation_xss_tc_new&quot;
-    git clone https://github.com/nghinv/automation_xss_tc_new.git 
-    ln -s automation_xss_tc_new automation_xss_tc
+  if [ ! -d automation-security-test ]; then
+    echo &quot;INFO: downloading automation-security-test&quot;
+    git clone https://github.com/ngammoudi/automation-security-test.git 
+    ln -s automation-security-test automation_xss_tc
   fi
 
   if [ ! -d w3af_auto ]; then
@@ -71,7 +71,7 @@ if [ -d $EXO_WORKING_DIR ]; then
     cd tools;
     if [ ! -d w3af ]; then
       echo &quot;INFO: w3af_auto&quot;
-      git clone https://github.com/nghinv/w3af.git
+      git clone https://github.com/ngammoudi/w3af.git
       pushd w3af
       git checkout 1.1 -b 1.1
       popd
